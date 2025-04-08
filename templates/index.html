@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="/static/style.css"> <!-- Path adjusted for Flask static serving -->
+</head>
+
+<body class="bg-gray-100">
+
+    <!-- Logout Button -->
+    <div class="absolute top-4 left-4 z-10">
+        <button id="logout-button"
+            class="bg-red-500 hover:bg-red-700 text-white text-xs font-bold py-1 px-3 rounded focus:outline-none focus:shadow-outline">
+            Logout (<span id="logged-in-user"></span>)
+        </button>
+    </div>
+
+    <div class="flex h-screen p-4 sm:p-6 md:p-8 space-x-4 sm:space-x-6 md:space-x-8 pt-12">
+        <!-- Added pt-12 for logout button space -->
+
+        <!-- === Left Sidebar: Incorrect Answers === -->
+        <aside id="incorrect-list-container"
+            class="w-1/4 bg-white p-4 rounded-lg shadow-md flex flex-col overflow-hidden">
+            <h2 class="text-xl font-semibold mb-3 border-b pb-2 text-red-600">Incorrectly Answered</h2>
+            <p class="mb-3 text-sm font-medium">Count: <span id="incorrect-count"
+                    class="font-bold text-red-600">0</span></p>
+            <ul id="incorrect-list" class="list-none p-0 overflow-y-auto flex-grow space-y-1"></ul>
+        </aside>
+        <!-- === End Left Sidebar === -->
+
+        <!-- === Center Area: Quiz Content === -->
+        <main id="quiz-area"
+            class="flex-grow bg-white p-6 rounded-lg shadow-md flex flex-col items-center justify-center relative">
+            <div class="absolute top-4 right-4 text-sm text-gray-500">
+                Total Questions: <span id="total-questions">0</span>
+            </div>
+            <div id="question-container" class="w-full max-w-2xl text-center">
+                <h1 class="text-2xl font-bold mb-6" id="question-text">Loading...</h1>
+                <div id="options-container" class="space-y-3"></div>
+                <p id="feedback" class="mt-5 p-3 rounded-md text-lg font-semibold hidden"></p>
+            </div>
+            <div id="completion-message" class="text-center hidden">
+                <h2 class="text-3xl font-bold text-green-600 mb-4">Quiz Complete!</h2>
+                <p class="text-lg mb-2">You have answered all questions correctly.</p>
+                <p class="text-lg mb-6">Final Incorrect Attempts:
+                    <span id="final-incorrect" class="font-bold text-red-600">0</span>
+                </p>
+                <button onclick="restartQuizForUser()"
+                    class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-6 rounded transition duration-200">
+                    Restart Quiz
+                </button>
+            </div>
+        </main>
+        <!-- === End Center Area === -->
+
+        <!-- === Right Sidebar: Correct Answers === -->
+        <aside id="correct-list-container"
+            class="w-1/4 bg-white p-4 rounded-lg shadow-md flex flex-col overflow-hidden">
+            <h2 class="text-xl font-semibold mb-3 border-b pb-2 text-green-600">Correctly Answered</h2>
+            <p class="mb-3 text-sm font-medium">Count: <span id="correct-count"
+                    class="font-bold text-green-600">0</span></p>
+            <ul id="correct-list" class="list-none p-0 overflow-y-auto flex-grow space-y-1"></ul>
+        </aside>
+        <!-- === End Right Sidebar === -->
+
+    </div>
+
+    <!-- Tooltip Element -->
+    <div id="tooltip"
+        class="hidden absolute z-50 px-3 py-2 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm dark:bg-gray-700 max-w-xs">
+    </div>
+
+    <script src="/static/script.js"></script> <!-- Path adjusted for Flask static serving -->
+</body>
+
+</html>

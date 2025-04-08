@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login / Register - Quiz App</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gray-100 flex items-center justify-center h-screen">
+    <div class="bg-white p-8 rounded-lg shadow-md w-full max-w-sm">
+        <h1 class="text-2xl font-bold mb-6 text-center">Quiz Login / Register</h1>
+        <form id="login-form">
+            <div class="mb-4">
+                <label for="username" class="block text-gray-700 text-sm font-bold mb-2">Username:</label>
+                <input type="text" id="username" name="username" required
+                    class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+            </div>
+            <div class="flex items-center justify-between">
+                <button type="submit"
+                    class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline w-full">
+                    Login / Register
+                </button>
+            </div>
+            <p id="error-message" class="text-red-500 text-xs italic mt-4 text-center"></p>
+        </form>
+    </div>
+
+    <script>
+        const loginForm = document.getElementById('login-form');
+        const usernameInput = document.getElementById('username');
+        const errorMessage = document.getElementById('error-message');
+
+        // Check if already logged in (e.g., if navigated back)
+        if (localStorage.getItem('quizAppUser')) {
+            // Optional: redirect immediately if user is already stored
+            // window.location.href = '/'; // Redirect to quiz page
+        }
+
+        loginForm.addEventListener('submit', async (event) => {
+            event.preventDefault(); // Prevent default form submission
+            errorMessage.textContent = ''; // Clear previous errors
+            const username = usernameInput.value.trim();
+
+            if (!username) {
+                errorMessage.textContent = 'Please enter a username.';
+                return;
+            }
+
+            try {
+                const response = await fetch('/api/login', {  // Changed from '/login' to '/api/login'
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ username: username }),
+                });
+
+                const data = await response.json();
+
+                if (response.ok && data.success) {
+                    // Store username in localStorage
+                    localStorage.setItem('quizAppUser', username);
+                    // Redirect to the main quiz page
+                    window.location.href = '/';
+                } else {
+                    errorMessage.textContent = data.message || 'Login/Registration failed. Please try again.';
+                }
+            } catch (error) {
+                console.error('Login error:', error);
+                errorMessage.textContent = 'An error occurred. Please check console or try again later.';
+            }
+        });
+    </script>
+</body>
+
+</html>

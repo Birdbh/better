@@ -1,0 +1,2189 @@
+[
+    {
+        "question": "How is the regulation of the practice of architecture typically different from that of interior decorating?",
+        "options": [
+            "a) Architecture requires higher professional fees.",
+            "b) Architecture is governed by statute and prohibits practice by unregistered individuals, unlike interior decorating.",
+            "c) Interior decorating is regulated by federal law, while architecture is provincial.",
+            "d) Both are regulated identically, but architecture involves structural design."
+        ],
+        "answer": "b) Architecture is governed by statute and prohibits practice by unregistered individuals, unlike interior decorating.",
+        "id": 0
+    },
+    {
+        "question": "Under the definition of the profession of geoscience adopted by Geoscientists Canada, which of the following does not fall within the bounds of professional practice?",
+        "options": [
+            "a) The sampling of a tailings pond",
+            "b) The evaluation of assay samples",
+            "c) The construction of a road into a mine",
+            "d) The drinking of English ale",
+            "e) None of the above"
+        ],
+        "answer": "c) The construction of a road into a mine",
+        "id": 2
+    },
+    {
+        "question": "Which statement best describes the design of a portion of a building?",
+        "options": [
+            "a) It falls within the practice of architecture, but not engineering.",
+            "b) It falls within the practice of engineering, but not architecture.",
+            "c) It may fall within the practice of both architecture and engineering.",
+            "d) None of the above"
+        ],
+        "answer": "c) It may fall within the practice of both architecture and engineering.",
+        "id": 4
+    },
+    {
+        "question": "What does 'exclusive scope of practice' mean for a profession?",
+        "options": [
+            "a) Only members of the profession can set their own fees.",
+            "b) Professionals have exclusive rights to work in any location they choose.",
+            "c) Only members of the profession are legally permitted to practise in certain specific areas.",
+            "d) The profession has an exclusive contract with the government."
+        ],
+        "answer": "c) Only members of the profession are legally permitted to practise in certain specific areas.",
+        "id": 6
+    },
+    {
+        "question": "An architect based in Saskatchewan designs a project in the Yukon and inspects construction work in Ontario. In which jurisdiction(s) must the architect be registered?",
+        "options": [
+            "a) Only Saskatchewan (where the office is located)",
+            "b) Only the Yukon (where the project is located)",
+            "c) Only Saskatchewan and the Yukon",
+            "d) Saskatchewan, the Yukon, and Ontario"
+        ],
+        "answer": "d) Saskatchewan, the Yukon, and Ontario",
+        "id": 8
+    },
+    {
+        "question": "Which of the following lists potential outcomes of a discipline process if a geoscientist is found guilty of professional misconduct?",
+        "options": [
+            "a) Mandatory promotion and public commendation.",
+            "b) Reprimands, suspensions, fines, termination of licences, educational requirements, mentorship requirements.",
+            "c) Automatic transfer to a different government department.",
+            "d) A warning with no possibility of further action."
+        ],
+        "answer": "b) Reprimands, suspensions, fines, termination of licences, educational requirements, mentorship requirements.",
+        "id": 10
+    },
+    {
+        "question": "Which statement is true regarding professional reciprocity agreements between jurisdictions?",
+        "options": [
+            "a) They mean that a professional registered in one jurisdiction does not have to register in another jurisdiction.",
+            "b) They make it easier to register in more than one jurisdiction.",
+            "c) They make it harder to register in another jurisdiction.",
+            "d) They apply only to architects and engineers."
+        ],
+        "answer": "b) They make it easier to register in more than one jurisdiction.",
+        "id": 12
+    },
+    {
+        "question": "How is a professional disciplinary hearing legally classified?",
+        "options": [
+            "a) As a full criminal proceeding",
+            "b) As a standard civil lawsuit",
+            "c) As a quasi-criminal proceeding",
+            "d) As an informal administrative review"
+        ],
+        "answer": "c) As a quasi-criminal proceeding",
+        "id": 14
+    },
+    {
+        "question": "What kind of definition is the Engineers Canada definition of professional engineering considered to be?",
+        "options": [
+            "a) A generic definition",
+            "b) A specific definition",
+            "c) Both a generic and a specific definition",
+            "d) Neither a generic nor a specific definition"
+        ],
+        "answer": "a) A generic definition",
+        "id": 16
+    },
+    {
+        "question": "What right does an engineering graduate automatically possess based solely on their engineering degree?",
+        "options": [
+            "a) The right to use the title professional engineer",
+            "b) The right to use the title engineer-in-training",
+            "c) No right to any title, based simply on an engineering degree",
+            "d) The right to sign off on engineering drawings."
+        ],
+        "answer": "c) No right to any title, based simply on an engineering degree",
+        "id": 18
+    },
+    {
+        "question": "A contractor faces severe financial loss due to an intentional delay caused by the owner. The contract contains a 'no damages for delay' clause. How should the architect, evaluating the contractor's claim, proceed?",
+        "options": [
+            "a) Automatically reject the claim based solely on the 'no damages for delay' clause.",
+            "b) Evaluate the claim fairly based on its merits and the specific terms and conditions of the contract.",
+            "c) Approve the claim fully because the owner caused the delay intentionally.",
+            "d) Advise the contractor to sue the owner directly, refusing to evaluate the claim."
+        ],
+        "answer": "b) Evaluate the claim fairly based on its merits and the specific terms and conditions of the contract.",
+        "id": 20
+    },
+    {
+        "question": "A geoscientist is asked to provide assay results for a public disclosure by a mining exploration company. The company offers payment in company shares instead of cash. What is the acceptable course of action for the geoscientist?",
+        "options": [
+            "a) He/she cannot accept payment in shares.",
+            "b) He/she can only accept payment in shares if he/she agrees to provide an unbiased report.",
+            "c) He/she can accept the shares under any circumstances.",
+            "d) He/she can accept the shares but must disclose this form of payment in the report."
+        ],
+        "answer": "a) He/she cannot accept payment in shares.",
+        "id": 22
+    },
+    {
+        "question": "An architect acting as the consultant under a CCDC 2 contract receives a contractor's claim for delay due to the architect's alleged late approval of shop drawings. What should the architect do?",
+        "options": [
+            "a) Reject the claim immediately to avoid potential liability to the owner.",
+            "b) Evaluate the claim objectively based on its merits and the factual timeline.",
+            "c) Approve the claim to avoid any appearance of bias against the contractor.",
+            "d) Refer the claim directly to the owner without evaluation."
+        ],
+        "answer": "b) Evaluate the claim objectively based on its merits and the factual timeline.",
+        "id": 24
+    },
+    {
+        "question": "Which of the following statements regarding professional duties is true?",
+        "options": [
+            "a) The duty to the employer always takes precedence over the duty to the client.",
+            "b) The duty to ensure public safety overrides the duty to the client in all circumstances.",
+            "c) The duty to one's own interests generally governs over the public interest.",
+            "d) The duty to the profession requires protecting colleagues above all else."
+        ],
+        "answer": "b) The duty to ensure public safety overrides the duty to the client in all circumstances.",
+        "id": 26
+    },
+    {
+        "question": "An engineer, hired as an expert witness, discovers a serious structural deficiency during investigation. After the case settles, a confidentiality agreement binds all parties. The client demands the engineer keep the deficiency confidential. What is the engineer's primary obligation?",
+        "options": [
+            "a) Uphold the confidentiality agreement as mandated by the client and the settlement.",
+            "b) Disclose the structural deficiency due to the prevailing duty to public safety.",
+            "c) Report the deficiency only to the professional association.",
+            "d) Keep the information confidential but refuse future work from that client."
+        ],
+        "answer": "b) Disclose the structural deficiency due to the prevailing duty to public safety.",
+        "id": 28
+    },
+    {
+        "question": "An engineer designs formwork, but their superior suggests using smaller members, which the engineer believes might compromise safety despite meeting minimum code. What is the engineer's most appropriate initial course of action?",
+        "options": [
+            "a) Implement the superior's suggestion to maintain a good working relationship.",
+            "b) Re-evaluate the design, stand by their safety concerns, and discuss them directly with the superior, emphasizing the duty to public safety.",
+            "c) Secretly over-design the formwork while appearing to follow the superior's suggestion.",
+            "d) Report the superior to the professional association immediately without further discussion."
+        ],
+        "answer": "b) Re-evaluate the design, stand by their safety concerns, and discuss them directly with the superior, emphasizing the duty to public safety.",
+        "id": 30
+    },
+    {
+        "question": "An engineer invents a new product during their employment but keeps it secret, resigns, and then attempts to patent it personally. What is the primary ethical issue?",
+        "options": [
+            "a) Patent infringement against potential competitors.",
+            "b) A violation of workplace safety regulations.",
+            "c) A breach of the duty of loyalty to the former employer, as the invention likely belongs to the employer.",
+            "d) Failure to disclose the invention to the professional licensing body."
+        ],
+        "answer": "c) A breach of the duty of loyalty to the former employer, as the invention likely belongs to the employer.",
+        "id": 32
+    },
+    {
+        "question": "Which statement is true for a person who is not a registered architect, engineer, or geoscientist?",
+        "options": [
+            "a) He/she owes no ethical duties to anyone in a professional context.",
+            "b) He/she is not bound by the specific codes of ethics established for those registered professions.",
+            "c) He/she must always comply with the codes of ethics of architects, engineers, and geoscientists when working on related projects.",
+            "d) He/she is only bound by ethical considerations if working for the government."
+        ],
+        "answer": "b) He/she is not bound by the specific codes of ethics established for those registered professions.",
+        "id": 34
+    },
+    {
+        "question": "A geoscientist learns of valuable mineral deposits through her work for a mining company. She considers quitting and acquiring adjacent properties. Which of the following statements about her duties is FALSE?",
+        "options": [
+            "a) The geoscientist continues to owe a duty of confidentiality to her former employer regarding information learned during employment.",
+            "b) The geoscientist could potentially acquire surrounding properties if the former employer explicitly consents.",
+            "c) The geoscientist owes no duty whatsoever to the employer after she has officially resigned.",
+            "d) Using confidential employer information for personal gain after resigning would likely be a breach of duty."
+        ],
+        "answer": "c) The geoscientist owes no duty whatsoever to the employer after she has officially resigned.",
+        "id": 36
+    },
+    {
+        "question": "Who owns an unpublished design drawing?",
+        "options": [
+            "a) The originator (i.e., design engineer)",
+            "b) The party who makes the copy of the drawing",
+            "c) The client who hired the engineer to do the design",
+            "d) None of the above"
+        ],
+        "answer": "a) The originator (i.e., design engineer)",
+        "id": 38
+    },
+    {
+        "question": "Which statement accurately describes the difference between real property and personal property?",
+        "options": [
+            "a) Real property is movable, while personal property is fixed to land.",
+            "b) Real property is land and items affixed to benefit the land; personal property is everything else.",
+            "c) Real property includes intellectual property, while personal property includes vehicles.",
+            "d) Personal property refers only to items owned by individuals, not corporations."
+        ],
+        "answer": "b) Real property is land and items affixed to benefit the land; personal property is everything else.",
+        "id": 40
+    },
+    {
+        "question": "Why is prompt registration of property interests (e.g., at land registries, personal property registries) generally important?",
+        "options": [
+            "a) It reduces property taxes owed.",
+            "b) It is required before any construction can begin.",
+            "c) Registration timing often determines the priority of rights between competing claimants.",
+            "d) It prevents the physical theft of the property."
+        ],
+        "answer": "c) Registration timing often determines the priority of rights between competing claimants.",
+        "id": 42
+    },
+    {
+        "question": "Which of the following is not typically considered an example of intangible property or an intangible property right?",
+        "options": [
+            "a) Copyright",
+            "b) Profit \u00c3\u00a0 prendre",
+            "c) Licence",
+            "d) Patent",
+            "e) A piece of construction equipment"
+        ],
+        "answer": "e) A piece of construction equipment",
+        "id": 44
+    },
+    {
+        "question": "If a landowner needs to install rock anchors extending into a neighbour's property for an excavation project, why must permission be obtained?",
+        "options": [
+            "a) Failure to obtain permission constitutes a trespass onto the neighbour's property.",
+            "b) Without permission, the neighbour's property would lack sufficient lateral support.",
+            "c) Installation without permission would violate the neighbour's air rights.",
+            "d) It is required by federal environmental regulations."
+        ],
+        "answer": "a) Failure to obtain permission constitutes a trespass onto the neighbour's property.",
+        "id": 46
+    },
+    {
+        "question": "An owner holding a property in fee simple generally has which of the following rights?",
+        "options": [
+            "a) The right to sell the property",
+            "b) The right to mortgage the property",
+            "c) The right to extract resources like gravel (subject to regulations)",
+            "d) All of the above"
+        ],
+        "answer": "d) All of the above",
+        "id": 48
+    },
+    {
+        "question": "Is the owner of a property held in fee simple potentially liable if their actions (e.g., excavation) fail to properly support a neighbouring property?",
+        "options": [
+            "a) No, fee simple ownership grants immunity from such liability.",
+            "b) Yes, because property owners owe a duty to provide support to neighbouring properties.",
+            "c) Only if the damage caused exceeds a specific monetary value.",
+            "d) Only if the neighbour formally filed a complaint before the excavation began."
+        ],
+        "answer": "b) Yes, because property owners owe a duty to provide support to neighbouring properties.",
+        "id": 50
+    },
+    {
+        "question": "Which scenario best illustrates an item transitioning from a chattel (personal property) to becoming part of the real property?",
+        "options": [
+            "a) A car being parked in the property's garage.",
+            "b) Drywall panels purchased and then installed to form the walls of a house on the property.",
+            "c) Lumber delivered and stacked on the property awaiting use in construction.",
+            "d) A tenant bringing their own furniture into a rented apartment."
+        ],
+        "answer": "b) Drywall panels purchased and then installed to form the walls of a house on the property.",
+        "id": 52
+    },
+    {
+        "question": "According to the provided text, what action secures copyright protection for a published work?",
+        "options": [
+            "a) Mandatory registration with the Canadian Intellectual Property Office (CIPO).",
+            "b) Publication displaying the \u00c2\u00a9 symbol, the author's name, and the year of publication.",
+            "c) Filing a notice with the local library.",
+            "d) Using the \u00e2\u201e\u00a2 symbol next to the work's title."
+        ],
+        "answer": "b) Publication displaying the \u00c2\u00a9 symbol, the author's name, and the year of publication.",
+        "id": 54
+    },
+    {
+        "question": "According to the provided text, what is the purpose of a patent?",
+        "options": [
+            "a) To protect the abstract idea that an inventor came up with",
+            "b) To protect the expression of an idea",
+            "c) To prevent a person from copying a drawing",
+            "d) To grant exclusive rights to an invention's appearance"
+        ],
+        "answer": "b) To protect the expression of an idea",
+        "id": 56
+    },
+    {
+        "question": "You invent a novel, functional, and visually distinct mousetrap named 'The Best Mousetrap'. Based on the provided text's answer, which forms of intellectual property protection could you potentially seek?",
+        "options": [
+            "a) Patent only",
+            "b) Copyright and Trademark",
+            "c) Patent, Industrial Design, and potentially Trademark",
+            "d) Trademark and Industrial Design only"
+        ],
+        "answer": "c) Patent, Industrial Design, and potentially Trademark",
+        "id": 58
+    },
+    {
+        "question": "Which of the following is not a recognized form of business organization?",
+        "options": [
+            "a) Partnership",
+            "b) Corporation",
+            "c) Sole proprietorship",
+            "d) Construction association"
+        ],
+        "answer": "d) Construction association",
+        "id": 60
+    },
+    {
+        "question": "Officers and directors have a duty to act with 'due diligence'. What does this mean?",
+        "options": [
+            "a) Taking all reasonable steps to satisfy statutory obligations, such as creating environmental protection policies.",
+            "b) Guaranteeing the company will always make a profit.",
+            "c) Ensuring all employees follow company policies perfectly at all times.",
+            "d) Personally performing every task required by the company's operations."
+        ],
+        "answer": "a) Taking all reasonable steps to satisfy statutory obligations, such as creating environmental protection policies.",
+        "id": 62
+    },
+    {
+        "question": "Which statement best describes the distinct roles within a corporation?",
+        "options": [
+            "a) Directors direct the overall business, Officers handle closer operational direction, and Shareholders own the business.",
+            "b) Shareholders direct the business, Directors handle operations, and Officers own the business.",
+            "c) Officers own the business and direct it, while Directors are primarily investors.",
+            "d) Directors handle day-to-day operations, Officers set long-term strategy, and Shareholders provide legal counsel."
+        ],
+        "answer": "a) Directors direct the overall business, Officers handle closer operational direction, and Shareholders own the business.",
+        "id": 64
+    },
+    {
+        "question": "What are two common steps corporate officers and directors can take to mitigate their personal risk of liability?",
+        "options": [
+            "a) Ignoring potential problems and delegating all decisions.",
+            "b) Obtaining an indemnity from the corporation and purchasing directors' and officers' liability insurance.",
+            "c) Ensuring the company pays minimal taxes and avoids regulatory scrutiny.",
+            "d) Resigning immediately when any potential issue arises."
+        ],
+        "answer": "b) Obtaining an indemnity from the corporation and purchasing directors' and officers' liability insurance.",
+        "id": 66
+    },
+    {
+        "question": "Ted, an employee and shareholder, sells his shares a few days after his company publicly announces a major technology failure. Is Ted guilty of insider trading?",
+        "options": [
+            "a) No, because the negative information was already made public before he sold his shares.",
+            "b) Yes, because he sold shares after receiving bad news about the company.",
+            "c) Yes, because as an employee, he is automatically considered an insider.",
+            "d) No, because he only sold a small number of shares."
+        ],
+        "answer": "a) No, because the negative information was already made public before he sold his shares.",
+        "id": 68
+    },
+    {
+        "question": "Which statement accurately describes a limited partnership (LP)?",
+        "options": [
+            "a) An LP offers the same liability protection as a corporation.",
+            "b) An LP must have at least one limited partner but does not require a general partner.",
+            "c) An LP must have at least one general partner but does not require any limited partners.",
+            "d) None of the above statements are accurate regarding the structure of a limited partnership."
+        ],
+        "answer": "d) None of the above statements are accurate regarding the structure of a limited partnership.",
+        "id": 70
+    },
+    {
+        "question": "A corporation may use various terms like Ltd., Inc., or Corp. in its name. Which of the following pairs cannot be used as a standalone indicator of incorporation in the name?",
+        "options": [
+            "a) Corporation, or Corp.",
+            "b) Company, or Co.",
+            "c) Limited, or Ltd.",
+            "d) Incorporated, or Inc."
+        ],
+        "answer": "b) Company, or Co.",
+        "id": 72
+    },
+    {
+        "question": "If one partner in a general partnership acts negligently in the course of the partnership's business, can the other partners also be held liable?",
+        "options": [
+            "a) Yes, partners can be held liable for the negligent acts of another partner if the act relates to the partnership's business.",
+            "b) No, each partner is only liable for their own individual actions.",
+            "c) Yes, partners are always liable for each other's actions, regardless of whether they relate to the business.",
+            "d) No, only the partnership entity itself can be held liable, not the individual partners."
+        ],
+        "answer": "a) Yes, partners can be held liable for the negligent acts of another partner if the act relates to the partnership's business.",
+        "id": 74
+    },
+    {
+        "question": "Directors of a corporation may be held personally liable for certain corporate failings. Which of the following are included in this potential liability?",
+        "options": [
+            "a) Unpaid wages, breach of trust under construction liens, unpaid rent, and unpaid taxes.",
+            "b) Only unpaid corporate taxes.",
+            "c) Only unpaid wages and breach of trust under construction liens.",
+            "d) Unpaid wages, breach of trust under construction liens, and unpaid taxes, but generally not unpaid rent for offices."
+        ],
+        "answer": "d) Unpaid wages, breach of trust under construction liens, and unpaid taxes, but generally not unpaid rent for offices.",
+        "id": 76
+    },
+    {
+        "question": "Conflict of interest rules, which require individuals to prioritize the entity's interest over their own, typically apply to which of the following?",
+        "options": [
+            "a) Only Officers and Directors of corporations.",
+            "b) Only Partners in a partnership.",
+            "c) Only Sole Proprietors.",
+            "d) Both Officers/Directors and Partners."
+        ],
+        "answer": "d) Both Officers/Directors and Partners.",
+        "id": 78
+    },
+    {
+        "question": "Brian, a renowned musician starting a band, is considering business structures. What are the primary advantages that might lead him to choose incorporation over a partnership or sole proprietorship, especially if anticipating significant success?",
+        "options": [
+            "a) Simplicity of setup and minimal administrative burden.",
+            "b) Enhanced personal creative control over the music.",
+            "c) Potential tax advantages and limitation of personal liability for business debts.",
+            "d) The requirement for all professional bands to be incorporated."
+        ],
+        "answer": "c) Potential tax advantages and limitation of personal liability for business debts.",
+        "id": 80
+    },
+    {
+        "question": "An engineer agrees to forgo outstanding fees in exchange for the client's promise to 'consider' hiring the engineer for a future project. The client does not hire the engineer for the new project. Is the engineer's agreement to forgo fees likely enforceable?",
+        "options": [
+            "a) Yes, because the engineer explicitly agreed to the terms.",
+            "b) Yes, because the client's promise to consider is sufficient consideration.",
+            "c) No, because the client's promise to 'consider' is likely too vague and uncertain to constitute valid consideration.",
+            "d) No, agreements involving future work are never enforceable."
+        ],
+        "answer": "c) No, because the client's promise to 'consider' is likely too vague and uncertain to constitute valid consideration.",
+        "id": 82
+    },
+    {
+        "question": "During a casual conversation at a party, a contractor tells a potential client, 'I can build those [warehouses] for $50 per square foot.' The client later sends a $2.5 million contract based on this figure, which the contractor refuses to sign. Was an enforceable agreement formed at the party?",
+        "options": [
+            "a) Yes, the contractor made a clear offer which the client accepted by preparing the contract.",
+            "b) Yes, because the price was specific, forming a verbal contract.",
+            "c) No, the contractor's statement was likely a statement of capability or preliminary negotiation, not a definite offer intended to create legal relations upon acceptance.",
+            "d) No, because contracts for construction must always be formally written and signed to be enforceable."
+        ],
+        "answer": "c) No, the contractor's statement was likely a statement of capability or preliminary negotiation, not a definite offer intended to create legal relations upon acceptance.",
+        "id": 84
+    },
+    {
+        "question": "A contract is often described as a 'legally enforceable promise.' However, a court will generally refuse to enforce a contract under which condition?",
+        "options": [
+            "a) It represents a significantly bad business deal for one of the parties involved.",
+            "b) The fundamental purpose or subject matter of the contract is illegal.",
+            "c) One party regrets entering into the agreement.",
+            "d) The contract terms were not reviewed by a lawyer."
+        ],
+        "answer": "b) The fundamental purpose or subject matter of the contract is illegal.",
+        "id": 86
+    },
+    {
+        "question": "In contract law, what is the best definition of 'consideration'?",
+        "options": [
+            "a) One party performing an act of goodwill or a favour for the other party.",
+            "b) The monetary payment exchanged between the parties.",
+            "c) Something of legal value (an act, forbearance, or promise) exchanged between the parties as the agreed price for the promise.",
+            "d) The careful thought and deliberation a party undertakes before agreeing to the contract terms."
+        ],
+        "answer": "c) Something of legal value (an act, forbearance, or promise) exchanged between the parties as the agreed price for the promise.",
+        "id": 88
+    },
+    {
+        "question": "In which of the following ways can legally binding contracts typically be formed?",
+        "options": [
+            "a) Entirely through oral agreement.",
+            "b) Through a combination of oral discussions and written documents.",
+            "c) Entirely through written documentation.",
+            "d) All of the above methods."
+        ],
+        "answer": "d) All of the above methods.",
+        "id": 90
+    },
+    {
+        "question": "If two parties reach a clear oral agreement but subsequently make an error when documenting that agreement in writing, what is the likely legal status?",
+        "options": [
+            "a) No contract exists because the written document contains a mistake.",
+            "b) A contract exists strictly according to the terms mistakenly written in the document.",
+            "c) A contract exists based on the original oral agreement, as the written document did not accurately reflect the parties' true intentions (rectification may be possible).",
+            "d) The contract is voidable at the option of the party disadvantaged by the mistake."
+        ],
+        "answer": "c) A contract exists based on the original oral agreement, as the written document did not accurately reflect the parties' true intentions (rectification may be possible).",
+        "id": 92
+    },
+    {
+        "question": "A client offers $100k/6mo delivery. A developer counters with $110k/6mo. The client then counters with $110k/4mo delivery. Finally, the developer says they will accept the original offer ($100k/6mo). Is there a binding contract at this point?",
+        "options": [
+            "a) Yes, the developer accepted the client's initial offer.",
+            "b) Yes, because the final terms match the client's original proposal.",
+            "c) No, the developer's first counter-offer terminated the client's original offer; the developer's final statement is a new offer.",
+            "d) Only if the client confirms acceptance of the developer's final proposal."
+        ],
+        "answer": "c) No, the developer's first counter-offer terminated the client's original offer; the developer's final statement is a new offer.",
+        "id": 94
+    },
+    {
+        "question": "A geoscientist demands overdue payment by noon tomorrow, threatening termination for fundamental breach. The client offers payment at 4 pm tomorrow. The geoscientist rejects this, abandons the site at noon, and sues when payment is offered at 4 pm. What is the likely outcome?",
+        "options": [
+            "a) The geoscientist will likely win because failure to pay a significant sum is always a fundamental breach.",
+            "b) The client will likely win because the geoscientist improperly abandoned the site; the 4-hour delay, after the initial waiver and new deadline, may not constitute a fundamental breach without special circumstances.",
+            "c) The geoscientist will likely win because the client failed to meet the explicit noon deadline.",
+            "d) The case will be dismissed as the contract became void when the payment was late."
+        ],
+        "answer": "b) The client will likely win because the geoscientist improperly abandoned the site; the 4-hour delay, after the initial waiver and new deadline, may not constitute a fundamental breach without special circumstances.",
+        "id": 96
+    },
+    {
+        "question": "If a party breaches a contract, what is the primary purpose of awarding damages to the innocent party?",
+        "options": [
+            "a) To punish the party that breached the contract.",
+            "b) To deter the breaching party and others from committing future breaches.",
+            "c) To compensate the innocent party by placing them in the financial position they would have occupied had the contract been properly performed.",
+            "d) To restore the innocent party to the financial position they were in before the contract was ever made."
+        ],
+        "answer": "c) To compensate the innocent party by placing them in the financial position they would have occupied had the contract been properly performed.",
+        "id": 98
+    },
+    {
+        "question": "A contractor working under an hourly rate agreement exhibits lower-than-expected efficiency. The owner refuses to pay the full invoiced amount based on hours worked. What is the central legal question?",
+        "options": [
+            "a) Whether the owner personally observed the contractor's inefficiency.",
+            "b) Whether the contractor provided daily progress reports.",
+            "c) Whether the contract contained an express or implied term requiring a standard level of competence and productivity, potentially allowing reduced payment if breached.",
+            "d) Whether the hourly rates charged were above the industry average."
+        ],
+        "answer": "c) Whether the contract contained an express or implied term requiring a standard level of competence and productivity, potentially allowing reduced payment if breached.",
+        "id": 100
+    },
+    {
+        "question": "Which of the following events generally entitles a party to be released from their future obligations under an existing contract?",
+        "options": [
+            "a) A fundamental breach of the contract by the other party.",
+            "b) Accidental destruction of the physical contract documents.",
+            "c) The inability of the parties to agree on a proposed amendment to the contract.",
+            "d) A party realizing they forgot to sign the contract documents after work had already commenced."
+        ],
+        "answer": "a) A fundamental breach of the contract by the other party.",
+        "id": 102
+    },
+    {
+        "question": "An owner fails to make a certified payment within the stipulated time under a standard CCDC 2 fixed-price contract. Does this failure automatically constitute a fundamental breach allowing the contractor to terminate the contract immediately?",
+        "options": [
+            "a) Yes, failure to pay is always a fundamental breach allowing immediate termination.",
+            "b) Yes, but only if the payment is more than 30 days overdue.",
+            "c) No, because CCDC 2 contains specific notice and remedy period provisions that must be followed before termination for non-payment.",
+            "d) No, termination is only allowed if the owner explicitly states they will not pay."
+        ],
+        "answer": "c) No, because CCDC 2 contains specific notice and remedy period provisions that must be followed before termination for non-payment.",
+        "id": 104
+    },
+    {
+        "question": "When interpreting a contract clause, if a conflict arises between the literal wording of the clause and the clear intention of the parties who entered the contract, which element generally takes precedence?",
+        "options": [
+            "a) The literal interpretation of the clause.",
+            "b) The intention of the parties.",
+            "c) Whichever interpretation favors the party who did not draft the contract.",
+            "d) The interpretation mandated by industry standards, regardless of party intention."
+        ],
+        "answer": "b) The intention of the parties.",
+        "id": 106
+    },
+    {
+        "question": "In which situation might expert evidence be necessary to properly interpret a contract clause?",
+        "options": [
+            "a) When the contract contains simple, everyday language.",
+            "b) When there are obvious spelling mistakes in the clause.",
+            "c) When the clause uses technical terms or refers to industry customs that have a special meaning not obvious to a layperson.",
+            "d) When one party claims they did not read the clause before signing."
+        ],
+        "answer": "c) When the clause uses technical terms or refers to industry customs that have a special meaning not obvious to a layperson.",
+        "id": 108
+    },
+    {
+        "question": "A contractor agrees under protest (due to the architect threatening delays) to remove impact costs from a change order price. After project completion, can the contractor successfully claim these costs?",
+        "options": [
+            "a) Yes, because the agreement was made under duress.",
+            "b) Yes, because impact costs are always recoverable.",
+            "c) Likely no, because despite the duress, the contractor should have formally disputed the issue at the time rather than agreeing and claiming later.",
+            "d) No, because the architect has final say on change order pricing."
+        ],
+        "answer": "c) Likely no, because despite the duress, the contractor should have formally disputed the issue at the time rather than agreeing and claiming later.",
+        "id": 110
+    },
+    {
+        "question": "An owner-contractor agreement allows the engineer to approve changes up to $10,000. Secretly, the owner instructs the engineer not to exceed $5,000. The engineer approves an $8,000 change without owner permission, and the contractor performs the work. Is the owner obligated to pay for the $8,000 change?",
+        "options": [
+            "a) No, because the engineer exceeded the owner's actual authority limit of $5,000.",
+            "b) Yes, if the contractor was unaware of the secret $5,000 limit, the engineer acted with apparent authority based on the $10,000 contractual limit.",
+            "c) Yes, because the change was below the $10,000 limit stated in the contract, regardless of secret instructions.",
+            "d) No, unless the owner explicitly ratifies the change order after the fact."
+        ],
+        "answer": "b) Yes, if the contractor was unaware of the secret $5,000 limit, the engineer acted with apparent authority based on the $10,000 contractual limit.",
+        "id": 112
+    },
+    {
+        "question": "A contract requires a contractor to indemnify an owner 'for any and all losses... attributable in whole or in part to the negligence of the contractor.' A $100,000 loss occurs due 50% to architect error and 50% to contractor error in a jurisdiction with joint and several liability. What is the contractor's maximum potential liability to the owner under this indemnity?",
+        "options": [
+            "a) $50,000 (the contractor's portion of fault)",
+            "b) $0 (as the architect was also at fault)",
+            "c) $100,000 (due to the 'in whole or in part' wording and joint/several liability)",
+            "d) An amount determined solely by the architect's insurance coverage."
+        ],
+        "answer": "c) $100,000 (due to the 'in whole or in part' wording and joint/several liability)",
+        "id": 114
+    },
+    {
+        "question": "An owner takes out a standard form Canadian payment bond for a warehouse project. The general contractor hires a concrete subcontractor, who then hires a rebar sub-subcontractor. Can the rebar sub-subcontractor successfully claim against the owner's payment bond if unpaid?",
+        "options": [
+            "a) Yes, anyone who contributes work or materials to the project can claim.",
+            "b) No, standard Canadian payment bonds are typically 'one-tier,' protecting only those with a direct contract with the general contractor (like the concrete subcontractor).",
+            "c) Yes, but only if the general contractor approves the claim.",
+            "d) No, payment bonds only cover the general contractor."
+        ],
+        "answer": "b) No, standard Canadian payment bonds are typically 'one-tier,' protecting only those with a direct contract with the general contractor (like the concrete subcontractor).",
+        "id": 116
+    },
+    {
+        "question": "Which of the following must inspectors do as part of their duties?",
+        "options": [
+            "a) Ensure absolutely that all work complies with the contract documents",
+            "b) Refrain from interpreting the contract",
+            "c) Ensure that they act within their delegated authority",
+            "d) Provide design advice to the contractor"
+        ],
+        "answer": "c) Ensure that they act within their delegated authority",
+        "id": 118
+    },
+    {
+        "question": "Why is it generally inappropriate for a performance specification to describe the detailed components or methods required to achieve the result?",
+        "options": [
+            "a) Because detailing components makes the specification too long.",
+            "b) Because performance specifications focus on the required outcome or functional criteria, leaving the 'how-to' details to the performer, thus avoiding conflicts or contradictions.",
+            "c) Because owners are not usually qualified to specify detailed components.",
+            "d) Because detailed components are always covered in the drawings, not specifications."
+        ],
+        "answer": "b) Because performance specifications focus on the required outcome or functional criteria, leaving the 'how-to' details to the performer, thus avoiding conflicts or contradictions.",
+        "id": 120
+    },
+    {
+        "question": "Under which circumstances is a subcontractor typically bound by the terms and conditions of the prime contract between the owner and the general contractor?",
+        "options": [
+            "a) Only if the subcontractor has physically read the entire prime contract before signing the subcontract.",
+            "b) If the subcontract agreement clearly incorporates the prime contract by reference, regardless of whether the subcontractor has read it.",
+            "c) Only if the terms of the prime contract are deemed reasonable by a third party.",
+            "d) Never, the subcontractor is only bound by the explicit terms of their own subcontract."
+        ],
+        "answer": "b) If the subcontract agreement clearly incorporates the prime contract by reference, regardless of whether the subcontractor has read it.",
+        "id": 122
+    },
+    {
+        "question": "To what extent are 'pay-if-paid' clauses (where a general contractor only has to pay a subcontractor if the GC is paid by the owner) generally enforceable in Canadian jurisdictions?",
+        "options": [
+            "a) They are enforceable under all circumstances as written.",
+            "b) They are never enforceable as they are against public policy.",
+            "c) Enforceability varies; they may be enforceable in some cases or jurisdictions, often depending on specific wording and statutory limitations (like lien acts).",
+            "d) They are only enforceable if the subcontractor explicitly agrees to the clause in writing."
+        ],
+        "answer": "c) Enforceability varies; they may be enforceable in some cases or jurisdictions, often depending on specific wording and statutory limitations (like lien acts).",
+        "id": 124
+    },
+    {
+        "question": "What is the key difference between 'actual authority' and 'apparent authority' of an agent (e.g., an engineer acting for an owner)?",
+        "options": [
+            "a) Actual authority is written; apparent authority is verbal.",
+            "b) Actual authority is expressly granted by the principal; apparent authority arises when the principal leads a third party to reasonably believe the agent has authority.",
+            "c) Actual authority applies to contract changes; apparent authority applies only to site instructions.",
+            "d) Actual authority is held by senior engineers; apparent authority is held by junior staff."
+        ],
+        "answer": "b) Actual authority is expressly granted by the principal; apparent authority arises when the principal leads a third party to reasonably believe the agent has authority.",
+        "id": 126
+    },
+    {
+        "question": "Is the required number or frequency of site inspections by a consultant always directly proportional to the consulting fee paid?",
+        "options": [
+            "a) True, the higher the fee, the more inspections are legally required.",
+            "b) False; while the fee (and contract terms) is a factor, the consultant's tort duty is based on what a reasonable professional would inspect in the circumstances to meet the standard of care, which may require more inspections than the fee seems to cover.",
+            "c) True, unless the contract explicitly states otherwise.",
+            "d) False, the number of inspections depends only on the project's complexity, not the fee."
+        ],
+        "answer": "b) False; while the fee (and contract terms) is a factor, the consultant's tort duty is based on what a reasonable professional would inspect in the circumstances to meet the standard of care, which may require more inspections than the fee seems to cover.",
+        "id": 128
+    },
+    {
+        "question": "Which of the following actions can a buyer in a tendering situation typically do without risking legal liability for breaching tendering law (Contract A)?",
+        "options": [
+            "a) Accept a bid that does not comply with a material requirement stated in the call for tenders.",
+            "b) Engage in negotiations with bidders after tenders close if negotiation was not explicitly mentioned as part of the process in the instructions to bidders.",
+            "c) Use criteria other than price (e.g., experience, schedule) in selecting the successful bidder, provided these criteria were disclosed in the tender documents.",
+            "d) Apply undisclosed criteria or preferences when evaluating bids and selecting the successful bidder."
+        ],
+        "answer": "c) Use criteria other than price (e.g., experience, schedule) in selecting the successful bidder, provided these criteria were disclosed in the tender documents.",
+        "id": 130
+    },
+    {
+        "question": "What is a key advantage and a potential disadvantage for a buyer consistently using a procurement process they are already familiar with?",
+        "options": [
+            "a) Advantage: Always results in the lowest possible project cost. Disadvantage: Requires significantly more administrative effort.",
+            "b) Advantage: Comfort and better understanding of the process steps. Disadvantage: May lead to using that process even when another method might be more suitable for a specific project, without proper evaluation.",
+            "c) Advantage: Guarantees no disputes or claims from bidders. Disadvantage: Often discourages innovative proposals.",
+            "d) Advantage: Speeds up the design phase significantly. Disadvantage: Reduces the quality of construction."
+        ],
+        "answer": "b) Advantage: Comfort and better understanding of the process steps. Disadvantage: May lead to using that process even when another method might be more suitable for a specific project, without proper evaluation.",
+        "id": 132
+    },
+    {
+        "question": "When an engineer is preparing contract documents for tender purposes, what scope of information should generally be included?",
+        "options": [
+            "a) Only the minimal information the engineer believes a highly competent contractor would need.",
+            "b) All relevant information known to the engineer or owner that could reasonably assist a contractor in preparing an accurate and comprehensive bid.",
+            "c) Only the specific information that the client (the buyer) explicitly authorizes for disclosure, even if other relevant information is known.",
+            "d) Information that strategically favors the buyer's preferred contractor."
+        ],
+        "answer": "b) All relevant information known to the engineer or owner that could reasonably assist a contractor in preparing an accurate and comprehensive bid.",
+        "id": 134
+    },
+    {
+        "question": "Why is the statement 'It is always best to hire consultants who have the lowest price' generally considered flawed advice, particularly for professional engineering or architectural services?",
+        "options": [
+            "a) Because higher-priced consultants invariably deliver superior quality work.",
+            "b) Because professional codes of ethics strictly prohibit competing based on price.",
+            "c) Because price is only one factor; the quality, expertise, experience, and understanding of the project demonstrated by the consultant are crucial for success and often justify a higher fee.",
+            "d) Because contracts with the lowest-priced consultants are often found to be legally unenforceable."
+        ],
+        "answer": "c) Because price is only one factor; the quality, expertise, experience, and understanding of the project demonstrated by the consultant are crucial for success and often justify a higher fee.",
+        "id": 136
+    },
+    {
+        "question": "If tender documents state that submitted bids are irrevocable until a specified date (e.g., 60 days after closing), what does this typically mean for a bidder?",
+        "options": [
+            "a) The bidder can never withdraw the bid once submitted.",
+            "b) The bidder can withdraw the bid anytime before the tender closing time and anytime after the specified irrevocability date passes, but cannot withdraw it between the closing time and the specified date.",
+            "c) The bidder can freely withdraw the bid at any point up until the specified irrevocability date.",
+            "d) The bid automatically forms a binding contract (Contract B) if the owner accepts it, regardless of the irrevocability period."
+        ],
+        "answer": "b) The bidder can withdraw the bid anytime before the tender closing time and anytime after the specified irrevocability date passes, but cannot withdraw it between the closing time and the specified date.",
+        "id": 138
+    },
+    {
+        "question": "What is the typical nature and legal effect of a 'privilege clause' (e.g., 'The lowest or any tender will not necessarily be accepted') in tender documents?",
+        "options": [
+            "a) It grants the owner unrestricted freedom to accept any bid, even a non-compliant one, based on secret preferences.",
+            "b) It obligates the owner to enter negotiations with the lowest bidder before rejecting their bid.",
+            "c) It generally permits the owner to reject any or all bids, even the lowest compliant one, but it does not override the owner's duty of fairness or allow the use of undisclosed evaluation criteria when selecting among compliant bids.",
+            "d) It primarily serves to extend the bid irrevocability period beyond what is stated elsewhere."
+        ],
+        "answer": "c) It generally permits the owner to reject any or all bids, even the lowest compliant one, but it does not override the owner's duty of fairness or allow the use of undisclosed evaluation criteria when selecting among compliant bids.",
+        "id": 140
+    },
+    {
+        "question": "An engineer is listed as the contact person in tender instructions. If she receives inquiries from prospective bidders before the tender closing time, what is the professionally appropriate action?",
+        "options": [
+            "a) Refuse to answer any questions to ensure all bidders rely solely on the issued documents.",
+            "b) Answer the questions accurately for the inquiring bidder only, keeping a private record.",
+            "c) Answer the questions accurately and ensure the question and answer are formally distributed to all prospective bidders via a written addendum.",
+            "d) Advise the bidder to submit their question formally after the tender closes."
+        ],
+        "answer": "c) Answer the questions accurately and ensure the question and answer are formally distributed to all prospective bidders via a written addendum.",
+        "id": 142
+    },
+    {
+        "question": "How can international trade agreements (e.g., CETA, CUSMA) affect tendering practices for government or public sector projects?",
+        "options": [
+            "a) They primarily mandate the use of specific construction materials.",
+            "b) They often require adherence to specific procedural rules for tendering and may prohibit discriminatory practices, such as giving preference to local suppliers over suppliers from signatory countries.",
+            "c) They generally exempt government projects from competitive bidding requirements.",
+            "d) They require all government tenders to be awarded solely based on the lowest price."
+        ],
+        "answer": "b) They often require adherence to specific procedural rules for tendering and may prohibit discriminatory practices, such as giving preference to local suppliers over suppliers from signatory countries.",
+        "id": 144
+    },
+    {
+        "question": "Which pair correctly identifies a potential advantage and a potential disadvantage of using the design-build project delivery model?",
+        "options": [
+            "a) Advantage: Increased owner control over detailed design decisions. Disadvantage: Slower overall project timeline.",
+            "b) Advantage: Single point of responsibility for design and construction. Disadvantage: Potential for consultant conflict of interest (if paid by the contractor whose work they oversee) and concerns about independent quality verification.",
+            "c) Advantage: Guaranteed lowest construction cost. Disadvantage: Less opportunity for contractor innovation.",
+            "d) Advantage: Reduced risk for the design-builder. Disadvantage: Increased design risk for the owner."
+        ],
+        "answer": "b) Advantage: Single point of responsibility for design and construction. Disadvantage: Potential for consultant conflict of interest (if paid by the contractor whose work they oversee) and concerns about independent quality verification.",
+        "id": 146
+    },
+    {
+        "question": "If an engineer responsible for preparing tender documents discovers significant errors or deficiencies in those documents during the tender period (before bids are due), what is the recommended course of action?",
+        "options": [
+            "a) Immediately notify the buyer (owner) and issue a formal addendum to all registered bidders correcting the errors or clarifying the deficiencies.",
+            "b) Remain silent and plan to address any resulting problems through change orders after the contract is awarded to the successful bidder.",
+            "c) Recommend cancelling the current tender process and re-tendering the project once the documents have been corrected.",
+            "d) Inform only the buyer and wait for specific instructions on how or whether to proceed."
+        ],
+        "answer": "a) Immediately notify the buyer (owner) and issue a formal addendum to all registered bidders correcting the errors or clarifying the deficiencies.",
+        "id": 148
+    },
+    {
+        "question": "Which statement best describes a standard form contract?",
+        "options": [
+            "a) It is perfect for every situation.",
+            "b) It represents the best practices for an industry.",
+            "c) It is a useful starting point.",
+            "d) It is completely balanced.",
+            "e) You should sign it without reading it."
+        ],
+        "answer": "c) It is a useful starting point.",
+        "id": 150
+    },
+    {
+        "question": "A contractor working under a fixed-price contract discovers their estimating department significantly underestimated the amount of work required. Is the contractor typically entitled to extra compensation from the owner for the missed scope?",
+        "options": [
+            "a) Yes, if the owner benefits from the extra work.",
+            "b) Yes, because it was an honest mistake by the estimating department.",
+            "c) No, under a fixed-price contract, the contractor generally bears the risk of their own estimating errors for the defined scope.",
+            "d) No, unless the error exceeds 10% of the contract value."
+        ],
+        "answer": "c) No, under a fixed-price contract, the contractor generally bears the risk of their own estimating errors for the defined scope.",
+        "id": 152
+    },
+    {
+        "question": "In a typical cost-plus contract arrangement, who primarily bears the risk related to the actual cost of the construction work?",
+        "options": [
+            "a) The contractor, as they are responsible for managing costs.",
+            "b) The owner, as they agree to pay the actual costs incurred (plus a fee or percentage).",
+            "c) The risk is shared equally between the owner and the contractor.",
+            "d) The subcontractors, as they perform the majority of the work."
+        ],
+        "answer": "b) The owner, as they agree to pay the actual costs incurred (plus a fee or percentage).",
+        "id": 154
+    },
+    {
+        "question": "Under what circumstances is a contractor most likely able to successfully seek an increase in the agreed-upon unit prices within a contract?",
+        "options": [
+            "a) When the cost of materials increases unexpectedly.",
+            "b) When the contractor's labour productivity is lower than anticipated.",
+            "c) When there is a significant change (increase or decrease) in the actual quantity of work required compared to the estimated quantities provided by the owner.",
+            "d) When the owner causes minor delays to the project schedule."
+        ],
+        "answer": "c) When there is a significant change (increase or decrease) in the actual quantity of work required compared to the estimated quantities provided by the owner.",
+        "id": 156
+    },
+    {
+        "question": "Why is it generally considered inadvisable for a Construction Manager (CM), acting on behalf of the owner, to also perform portions of the construction work on the same project?",
+        "options": [
+            "a) Because CMs typically lack the necessary construction skills.",
+            "b) Because it creates a conflict of interest, as the CM would be overseeing and managing their own work on the owner's behalf.",
+            "c) Because the CM's insurance usually prohibits performing direct construction work.",
+            "d) Because it significantly increases the project's overall cost."
+        ],
+        "answer": "b) Because it creates a conflict of interest, as the CM would be overseeing and managing their own work on the owner's behalf.",
+        "id": 158
+    },
+    {
+        "question": "What is the defining characteristic of a Public-Private Partnership (P3) contract?",
+        "options": [
+            "a) A contract funded entirely by private investment for a public project.",
+            "b) A partnership between public sector entities only.",
+            "c) A partnership between the public and private sectors involving shared risk, responsibility, and reward, intended to deliver a net benefit to the public.",
+            "d) A short-term contract for consulting services provided by the private sector to the government."
+        ],
+        "answer": "c) A partnership between the public and private sectors involving shared risk, responsibility, and reward, intended to deliver a net benefit to the public.",
+        "id": 160
+    },
+    {
+        "question": "What is the primary reason why professionals (like engineers or architects) should generally avoid guaranteeing the work performed by other parties (like contractors)?",
+        "options": [
+            "a) Professional codes of ethics strictly forbid it under any circumstances.",
+            "b) It is practically impossible for the professional to provide absolute assurance that every aspect of another party's work is completely free of defects.",
+            "c) Their professional liability insurance becomes void if they provide such guarantees.",
+            "d) Guaranteeing others' work requires a special license."
+        ],
+        "answer": "b) It is practically impossible for the professional to provide absolute assurance that every aspect of another party's work is completely free of defects.",
+        "id": 162
+    },
+    {
+        "question": "Can liquidated damages (a pre-agreed amount for specific breaches, like delay) be validly assessed against a party even if the contract does not include a corresponding bonus clause for early completion?",
+        "options": [
+            "a) Yes, the presence of a liquidated damages clause is generally independent of whether a bonus clause exists.",
+            "b) No, a bonus clause is legally required to make a liquidated damages clause enforceable.",
+            "c) Only if the owner can prove actual damages exceeding the liquidated amount.",
+            "d) Only if the contractor agrees to the assessment after the breach occurs."
+        ],
+        "answer": "a) Yes, the presence of a liquidated damages clause is generally independent of whether a bonus clause exists.",
+        "id": 164
+    },
+    {
+        "question": "An architect's contract with an owner includes a clause stating the architect is not liable to third parties for design errors. If a design error causes injury to a pedestrian (a third party), can this clause protect the architect from a negligence lawsuit by the pedestrian?",
+        "options": [
+            "a) Yes, the contractual clause overrides any tort liability.",
+            "b) Yes, if the owner informed the public about the limitation.",
+            "c) No, third parties are generally not bound by contractual limitations they did not agree to.",
+            "d) No, unless the pedestrian was trespassing at the time of injury."
+        ],
+        "answer": "c) No, third parties are generally not bound by contractual limitations they did not agree to.",
+        "id": 166
+    },
+    {
+        "question": "An architect, during inspection, instructs a contractor on specific changes to the design of temporary falsework (means and methods). An accident occurs due to the falsework change, injuring a pedestrian. Can the architect successfully defend against liability by arguing the contractor is solely responsible for means and methods?",
+        "options": [
+            "a) Yes, contract terms defining responsibility for means and methods are absolute.",
+            "b) Yes, unless the architect's instructions were clearly negligent.",
+            "c) Likely no, because by giving specific instructions on means and methods, the architect voluntarily assumed a duty of care regarding that advice.",
+            "d) No, the architect is always jointly liable with the contractor for site accidents."
+        ],
+        "answer": "c) Likely no, because by giving specific instructions on means and methods, the architect voluntarily assumed a duty of care regarding that advice.",
+        "id": 168
+    },
+    {
+        "question": "A supervising professional engineer checks but fails to detect a calculation error made by an engineer-in-training (EIT) under their supervision, leading to a failure. In a negligence claim (ignoring contract liability), which statement is most accurate?",
+        "options": [
+            "a) The EIT is automatically liable for making the error; the P.Eng. is liable for failing to catch it.",
+            "b) Neither is liable if they followed the company's standard checking procedures.",
+            "c) The P.Eng. may be liable if their supervision and checking fell below the expected standard of care for a P.Eng.; the EIT may not be liable if they met the standard expected of an EIT under supervision.",
+            "d) Only the P.Eng. is potentially liable as they have ultimate responsibility; the EIT is shielded."
+        ],
+        "answer": "c) The P.Eng. may be liable if their supervision and checking fell below the expected standard of care for a P.Eng.; the EIT may not be liable if they met the standard expected of an EIT under supervision.",
+        "id": 170
+    },
+    {
+        "question": "An architect's completed plans require costly changes to meet municipal requirements that were updated very recently, after the design phase. If the annoyed owner sues the architect for negligence, what is the architect's strongest defence?",
+        "options": [
+            "a) The municipality should have notified the architect sooner.",
+            "b) The owner is responsible for knowing local codes.",
+            "c) The architect met the required standard of care by designing according to the codes and accepted practices that were in effect *at the time the design was performed*.",
+            "d) The cost of the changes was unforeseeable."
+        ],
+        "answer": "c) The architect met the required standard of care by designing according to the codes and accepted practices that were in effect *at the time the design was performed*.",
+        "id": 172
+    },
+    {
+        "question": "An engineer designs a system that barely meets minimum code standards. They decline a contractor's suggestion for a modest-cost safety enhancement. The system fails. How strong is the 'compliance with code' defence if the engineer is sued?",
+        "options": [
+            "a) It provides complete immunity from liability.",
+            "b) It is irrelevant if the system ultimately failed.",
+            "c) It is a potentially strong defence, but may be overcome if the engineer knew or should have known the minimum standard was inadequate for the specific circumstances or posed undue risk.",
+            "d) It is only valid if the code was updated within the last year."
+        ],
+        "answer": "c) It is a potentially strong defence, but may be overcome if the engineer knew or should have known the minimum standard was inadequate for the specific circumstances or posed undue risk.",
+        "id": 174
+    },
+    {
+        "question": "What is the primary difference in legal remedies available for innocent misrepresentation versus fraudulent misrepresentation?",
+        "options": [
+            "a) Damages are available for innocent misrepresentation, but not for fraudulent.",
+            "b) Contract rescission is available for fraudulent misrepresentation, but not for innocent.",
+            "c) Fraudulent misrepresentation may allow for both damages and rescission, while innocent misrepresentation typically only allows for rescission.",
+            "d) Only fraudulent misrepresentation can be addressed in court."
+        ],
+        "answer": "c) Fraudulent misrepresentation may allow for both damages and rescission, while innocent misrepresentation typically only allows for rescission.",
+        "id": 176
+    },
+    {
+        "question": "Regarding the types of damages that can be claimed, what is a key difference between a lawsuit based on negligence and one based on negligent misrepresentation?",
+        "options": [
+            "a) Punitive damages are only possible in negligence.",
+            "b) Negligent misrepresentation allows claims for pure economic loss, which are generally restricted in negligence claims (subject to exceptions).",
+            "c) Negligence claims are capped at a lower amount.",
+            "d) Negligent misrepresentation claims do not allow recovery for physical damage."
+        ],
+        "answer": "b) Negligent misrepresentation allows claims for pure economic loss, which are generally restricted in negligence claims (subject to exceptions).",
+        "id": 178
+    },
+    {
+        "question": "An owner mistakenly builds a fence one foot onto their neighbour's property due to an incorrect assumption about the property line. Does this constitute trespass, and is the owner's honest mistake a valid defence?",
+        "options": [
+            "a) No, an honest mistake about boundaries negates trespass.",
+            "b) Yes, it is trespass, but the mistake excuses the owner from liability.",
+            "c) Yes, it constitutes trespass, and mistake is generally not a defence to the act of trespassing itself.",
+            "d) It only becomes trespass if the neighbour formally objects."
+        ],
+        "answer": "c) Yes, it constitutes trespass, and mistake is generally not a defence to the act of trespassing itself.",
+        "id": 180
+    },
+    {
+        "question": "A geoscientist obtains conflicting survey results. Knowing the report will be relied upon by potential investors buying the company, she chooses to disclose only the positive findings. Is she potentially liable to these investors?",
+        "options": [
+            "a) No, her duty is solely to the company that hired her.",
+            "b) No, investors assume the risk and must conduct their own due diligence.",
+            "c) Yes, selective reporting or omitting material negative findings in a report known to be used by investors could lead to liability (e.g., for negligent misrepresentation).",
+            "d) Only if the positive results were completely fabricated."
+        ],
+        "answer": "c) Yes, selective reporting or omitting material negative findings in a report known to be used by investors could lead to liability (e.g., for negligent misrepresentation).",
+        "id": 182
+    },
+    {
+        "question": "To what level of standard of care do courts hold professionals?",
+        "options": [
+            "a) Perfection",
+            "b) A reasonably competent professional practising in the same field",
+            "c) The professional with the lowest competence practising in the same field",
+            "d) The standard set by the client's expectations"
+        ],
+        "answer": "b) A reasonably competent professional practising in the same field",
+        "id": 184
+    },
+    {
+        "question": "An architect designed a building in Vancouver in 1998 using a 'face-sealed' envelope, which later leaked. 'Rain-screen' designs were becoming more common around that time. How would a court determine if the architect met the appropriate standard of care?",
+        "options": [
+            "a) By checking if the design meets today's building codes.",
+            "b) Based on whether the building leaked.",
+            "c) Primarily through expert evidence on whether using a face-sealed envelope was still considered acceptable practice by reasonably competent architects in that field *in 1998*.",
+            "d) By comparing the cost of the face-sealed design versus a rain-screen design."
+        ],
+        "answer": "c) Primarily through expert evidence on whether using a face-sealed envelope was still considered acceptable practice by reasonably competent architects in that field *in 1998*.",
+        "id": 186
+    },
+    {
+        "question": "A geologist is charged criminally with fraud and sued civilly by investors for the same act of allegedly falsifying an assay report. Due to differences in legal standards (like burden of proof), which outcome is possible?",
+        "options": [
+            "a) Found guilty criminally, but automatically found liable civilly.",
+            "b) Found liable in the civil case (on a balance of probabilities), but found not guilty in the criminal case (where proof beyond a reasonable doubt is required).",
+            "c) The civil case verdict must always match the criminal case verdict.",
+            "d) Found not guilty criminally, which automatically dismisses the civil case."
+        ],
+        "answer": "b) Found liable in the civil case (on a balance of probabilities), but found not guilty in the criminal case (where proof beyond a reasonable doubt is required).",
+        "id": 188
+    },
+    {
+        "id": 189,
+        "question": "According to the text, what is the primary purpose of the examination for discovery process in litigation?",
+        "options": [
+            "a) To finalize the judge's decision before trial.",
+            "b) To allow expert witnesses to present their final opinions.",
+            "c) To reduce the element of surprise and promote settlement.",
+            "d) To determine the exact cost of the entire lawsuit."
+        ],
+        "answer": "c) To reduce the element of surprise and promote settlement.",
+        "source": "Dispute Resolution"
+    },
+    {
+        "id": 190,
+        "question": "Which dispute resolution method is described as a \"private litigation or trial process\" where parties choose a private judge called an arbitrator?",
+        "options": [
+            "a) Mediation",
+            "b) Negotiation",
+            "c) Litigation",
+            "d) Arbitration"
+        ],
+        "answer": "d) Arbitration",
+        "source": "Dispute Resolution"
+    },
+    {
+        "id": 191,
+        "question": "What is highlighted as the \"most serious disadvantage\" of arbitration in the text?",
+        "options": [
+            "a) The inability to force third parties to participate without their prior agreement.",
+            "b) The requirement that all evidence must follow formal court rules strictly.",
+            "c) The fact that arbitration proceedings are always open to the public.",
+            "d) The excessive speed of the process, not allowing for careful consideration."
+        ],
+        "answer": "a) The inability to force third parties to participate without their prior agreement.",
+        "source": "Dispute Resolution"
+    },
+    {
+        "id": 192,
+        "question": "How does the text describe the nature of negotiation?",
+        "options": [
+            "a) A formal procedure governed by strict legislative rules.",
+            "b) A discussion aimed at resolving a dispute through compromise, more art than science.",
+            "c) A process where a neutral third party makes a binding decision.",
+            "d) A mandatory step required by courts before any litigation can commence."
+        ],
+        "answer": "b) A discussion aimed at resolving a dispute through compromise, more art than science.",
+        "source": "Dispute Resolution"
+    },
+    {
+        "id": 193,
+        "question": "Which dispute resolution method involves a neutral third party who facilitates settlement discussions but does NOT make a binding decision (unless it's a hybrid form like med-arb)?",
+        "options": [
+            "a) Litigation",
+            "b) Binding Arbitration",
+            "c) Mediation",
+            "d) Mini-trial"
+        ],
+        "answer": "c) Mediation",
+        "source": "Dispute Resolution"
+    },
+    {
+        "id": 194,
+        "question": "What unique action is a mediator explicitly allowed to do, which distinguishes them from a judge or arbitrator during the standard process?",
+        "options": [
+            "a) Charge fees based on the amount in dispute.",
+            "b) Issue subpoenas for witnesses.",
+            "c) Cross-examine witnesses under oath.",
+            "d) Meet privately (ex parte) with each party to discuss the case."
+        ],
+        "answer": "d) Meet privately (ex parte) with each party to discuss the case.",
+        "source": "Dispute Resolution"
+    },
+    {
+        "id": 195,
+        "question": "What is the primary duty of an expert witness when providing an opinion in court or arbitration?",
+        "options": [
+            "a) To advocate strongly for the client's position regardless of technical merit.",
+            "b) To provide an honest, neutral, and professional opinion to assist the decision-maker.",
+            "c) To ensure the technical evidence confuses the opposing party.",
+            "d) To negotiate a settlement between the parties based on their expertise."
+        ],
+        "answer": "b) To provide an honest, neutral, and professional opinion to assist the decision-maker.",
+        "source": "Dispute Resolution"
+    },
+    {
+        "id": 196,
+        "question": "Why is it considered unprofessional conduct, potentially leading to sanctions, for an expert witness to charge a fee contingent on the outcome of the case?",
+        "options": [
+            "a) Because expert fees are legally capped at a low amount.",
+            "b) Because such fees are only permitted for lawyers.",
+            "c) Because it undermines the expert's required neutrality and impartiality.",
+            "d) Because experts are expected to work pro bono in legal disputes."
+        ],
+        "answer": "c) Because it undermines the expert's required neutrality and impartiality.",
+        "source": "Dispute Resolution"
+    },
+    {
+        "id": 197,
+        "question": "What happens to information shared and settlement offers made during mediation if the parties ultimately fail to reach a settlement?",
+        "options": [
+            "a) The information and offers become privileged and generally cannot be used in subsequent litigation.",
+            "b) The mediator must report all offers to the court.",
+            "c) The offers automatically become the starting point for litigation damages.",
+            "d) The party who rejected the last offer must pay the mediation costs."
+        ],
+        "answer": "a) The information and offers become privileged and generally cannot be used in subsequent litigation.",
+        "source": "Dispute Resolution"
+    },
+    {
+        "id": 198,
+        "question": "Which of the following is generally considered the method of \"last resort\" for resolving disputes due to its cost, time, and adversarial nature?",
+        "options": [
+            "a) Arbitration",
+            "b) Mediation",
+            "c) Litigation",
+            "d) Negotiation"
+        ],
+        "answer": "c) Litigation",
+        "source": "Dispute Resolution"
+    },
+    {
+        "id": 199,
+        "question": "According to the text, what is a key advantage of using arbitration, particularly relevant when sensitive information like trade secrets is involved?",
+        "options": [
+            "a) The guaranteed lowest cost compared to all other methods.",
+            "b) The mandatory participation of all relevant third parties.",
+            "c) The public nature of the proceedings ensuring transparency.",
+            "d) The privacy of the hearing compared to public court proceedings."
+        ],
+        "answer": "d) The privacy of the hearing compared to public court proceedings.",
+        "source": "Dispute Resolution"
+    },
+    {
+        "id": 200,
+        "question": "What is arbitration called if the agreement to arbitrate is included in the contract *before* any dispute arises?",
+        "options": [
+            "a) Voluntary binding arbitration",
+            "b) Mandatory binding arbitration",
+            "c) Non-binding arbitration",
+            "d) Ad hoc arbitration"
+        ],
+        "answer": "b) Mandatory binding arbitration",
+        "source": "Dispute Resolution"
+    },
+    {
+        "id": 201,
+        "question": "What is the definition of a tort according to the text?",
+        "options": [
+            "a) A breach of a duty of care causing injury or loss, independent of any contract.",
+            "b) A breach of specific terms written within a signed contract.",
+            "c) A criminal act prosecuted by the state.",
+            "d) An agreement between two parties to avoid disputes."
+        ],
+        "answer": "a) A breach of a duty of care causing injury or loss, independent of any contract.",
+        "source": "Torts"
+    },
+    {
+        "id": 202,
+        "question": "Which of the following is NOT listed as one of the four basic elements a plaintiff must prove to succeed in a negligence claim?",
+        "options": [
+            "a) The defendant owed the plaintiff a duty of care.",
+            "b) The defendant breached that duty of care.",
+            "c) The plaintiff suffered loss or damage.",
+            "d) The defendant had fraudulent intent."
+        ],
+        "answer": "d) The defendant had fraudulent intent.",
+        "source": "Torts"
+    },
+    {
+        "id": 203,
+        "question": "How is the \"standard of care\" generally defined for professionals in negligence cases?",
+        "options": [
+            "a) The highest possible degree of skill attainable in the profession.",
+            "b) The level of skill and care expected of a reasonable and competent member of that profession.",
+            "c) The minimum standard required to obtain a professional license.",
+            "d) The standard agreed upon explicitly in the contract between the parties."
+        ],
+        "answer": "b) The level of skill and care expected of a reasonable and competent member of that profession.",
+        "source": "Torts"
+    },
+    {
+        "id": 204,
+        "question": "Regarding claims for \"pure economic loss\" (where only money is lost, with no personal injury or property damage), what is the general rule in Canadian tort law according to the text?",
+        "options": [
+            "a) They are always recoverable in negligence claims.",
+            "b) They are only recoverable if the loss exceeds $1 million.",
+            "c) They are generally barred, with some exceptions like negligent misrepresentation or where there's a substantial danger to health and safety.",
+            "d) They can only be claimed if there is also a breach of contract."
+        ],
+        "answer": "c) They are generally barred, with some exceptions like negligent misrepresentation or where there's a substantial danger to health and safety.",
+        "source": "Torts"
+    },
+    {
+        "id": 205,
+        "question": "What additional element must an injured party prove in a claim for negligent misrepresentation compared to a standard negligence claim involving an action?",
+        "options": [
+            "a) That the injured party reasonably relied on the negligent statement.",
+            "b) That the misrepresentation was made in writing.",
+            "c) That the person making the statement intended to cause harm.",
+            "d) That the statement was made public knowledge."
+        ],
+        "answer": "a) That the injured party reasonably relied on the negligent statement.",
+        "source": "Torts"
+    },
+    {
+        "id": 206,
+        "question": "Which type of tort involves an untrue statement that the defendant knows to be untrue or is indifferent to its truth, and intends to induce the plaintiff to act upon it?",
+        "options": [
+            "a) Trespass",
+            "b) Nuisance",
+            "c) Negligence",
+            "d) Fraud (Deceit)"
+        ],
+        "answer": "d) Fraud (Deceit)",
+        "source": "Torts"
+    },
+    {
+        "id": 207,
+        "question": "Under what general circumstances might a court find that a fiduciary duty exists between parties?",
+        "options": [
+            "a) Any time two parties enter into a commercial contract.",
+            "b) Where there is a relationship involving trust, potential vulnerability, and the ability of one party (the fiduciary) to exercise power affecting the other's interests.",
+            "c) Only when explicitly stated in a written agreement signed by both parties.",
+            "d) Automatically between all professionals and their clients."
+        ],
+        "answer": "b) Where there is a relationship involving trust, potential vulnerability, and the ability of one party (the fiduciary) to exercise power affecting the other's interests.",
+        "source": "Torts"
+    },
+    {
+        "id": 208,
+        "question": "What type of liability applies to trespass, meaning the plaintiff only needs to prove unauthorized entry without needing to prove negligence?",
+        "options": [
+            "a) Strict liability",
+            "b) Vicarious liability",
+            "c) Joint liability",
+            "d) Contingent liability"
+        ],
+        "answer": "a) Strict liability",
+        "source": "Torts"
+    },
+    {
+        "id": 209,
+        "question": "What principle regarding liability in tort and contract was established by the Supreme Court of Canada in *Central Trust v. Rafuse*?",
+        "options": [
+            "a) Parties with a contract can only sue each other for breach of contract, not in tort.",
+            "b) Parties can only sue in tort if there is no contract between them.",
+            "c) Parties to a contract can concurrently owe each other a duty of care in tort, but tort cannot be used to circumvent contract terms.",
+            "d) Tort liability always takes precedence over contractual liability."
+        ],
+        "answer": "c) Parties to a contract can concurrently owe each other a duty of care in tort, but tort cannot be used to circumvent contract terms.",
+        "source": "Common Issues"
+    },
+    {
+        "id": 210,
+        "question": "According to the \"discoverability rule\" established in *Kamloops v. Nielsen*, when does a limitation period typically begin to run in negligence cases involving latent defects?",
+        "options": [
+            "a) On the date the negligent act occurred.",
+            "b) On the date the contract was signed.",
+            "c) On the date the project was substantially completed.",
+            "d) When the plaintiff knew, or ought reasonably to have known through due diligence, that they had a cause of action."
+        ],
+        "answer": "d) When the plaintiff knew, or ought reasonably to have known through due diligence, that they had a cause of action.",
+        "source": "Common Issues"
+    },
+    {
+        "id": 211,
+        "question": "What is vicarious liability?",
+        "options": [
+            "a) Liability shared equally among all defendants.",
+            "b) The liability of one party (e.g., an employer) for the fault of another (e.g., an employee acting within their scope of employment).",
+            "c) Liability that only arises if a contract exists.",
+            "d) The personal liability of an employee for actions outside of work hours."
+        ],
+        "answer": "b) The liability of one party (e.g., an employer) for the fault of another (e.g., an employee acting within their scope of employment).",
+        "source": "Common Issues"
+    },
+    {
+        "id": 212,
+        "question": "If a professional follows an applicable code or standard, under which circumstance might they still be found liable according to the text?",
+        "options": [
+            "a) If the professional has actual knowledge, or reasonably should have known, that the code was inadequate.",
+            "b) If the client specifically requested a higher standard.",
+            "c) If the code was developed by a private organization instead of the government.",
+            "d) If following the code resulted in higher project costs."
+        ],
+        "answer": "a) If the professional has actual knowledge, or reasonably should have known, that the code was inadequate.",
+        "source": "Common Issues"
+    },
+    {
+        "id": 213,
+        "question": "According to the presentation, what are the three core elements that intersect to create value in entrepreneurship?",
+        "options": [
+            "a) Market Insight, Intellectual Capital, and Investment",
+            "b) Product Development, Marketing Strategy, and Sales Channels",
+            "c) Team, Technology, and Timing",
+            "d) Financial Resources, Customer Feedback, and Legal Structure"
+        ],
+        "answer": "a) Market Insight, Intellectual Capital, and Investment",
+        "source": "Entrepreneurship"
+    },
+    {
+        "id": 214,
+        "question": "Under the BC Employment Standards Act (ESA), how are professional engineers, professional engineering licensees, or engineers in training generally treated regarding standards like overtime pay, provided they are carrying on the occupation of an engineer?",
+        "options": [
+            "a) They are covered by all standard ESA provisions.",
+            "b) They are generally exempt from these specific provisions (e.g., overtime).",
+            "c) They are covered only if working for a federally regulated employer.",
+            "d) Their coverage depends on their years of experience."
+        ],
+        "answer": "b) They are generally exempt from these specific provisions (e.g., overtime).",
+        "source": "Employment Law"
+    },
+    {
+        "id": 215,
+        "question": "Which type of Intellectual Property protects creative works such as literature, music, and visual arts, granting exclusive rights for copying, distribution, and performance?",
+        "options": [
+            "a) Patent",
+            "b) Trademark",
+            "c) Copyright",
+            "d) Trade Secret"
+        ],
+        "answer": "c) Copyright",
+        "source": "Intellectual Property"
+    },
+    {
+        "id": 216,
+        "question": "Which tool described in the presentation is a framework used from \"ideation to production\" involving stakeholder committees and gate reviews, and is explicitly mentioned as *not* being time-based?",
+        "options": [
+            "a) Lean Canvas",
+            "b) Agile",
+            "c) Value Chain",
+            "d) Stage-Gate"
+        ],
+        "answer": "d) Stage-Gate",
+        "source": "Entrepreneurship"
+    },
+    {
+        "id": 217,
+        "question": "What is a \"Bona Fide Occupational Requirement\" (BFOR) in the context of human rights law?",
+        "options": [
+            "a) A benefit offered only to senior employees based on performance.",
+            "b) A standard or rule integral to a job, where accommodating someone unable to meet it would cause undue hardship.",
+            "c) Any requirement listed in the job description by the employer.",
+            "d) A minimum wage requirement set by employment standards."
+        ],
+        "answer": "b) A standard or rule integral to a job, where accommodating someone unable to meet it would cause undue hardship.",
+        "source": "Employment Law"
+    },
+    {
+        "id": 218,
+        "question": "What is the typical duration of a patent, starting from the date of the first application (priority date)?",
+        "options": [
+            "a) 10 years",
+            "b) 20 years",
+            "c) 50 years after the inventor's death",
+            "d) Indefinitely, as long as maintenance fees are paid"
+        ],
+        "answer": "b) 20 years",
+        "source": "Intellectual Property"
+    },
+    {
+        "id": 219,
+        "question": "Which Agile value is highlighted by prioritizing \"Individuals and interactions\"?",
+        "options": [
+            "a) Over processes and tools",
+            "b) Over comprehensive documentation",
+            "c) Over contract negotiation",
+            "d) Over following a plan"
+        ],
+        "answer": "a) Over processes and tools",
+        "source": "Entrepreneurship"
+    },
+    {
+        "id": 220,
+        "question": "In the absence of \"just cause\" or an enforceable contractual termination provision, what are non-exempt employees generally entitled to upon termination under common law?",
+        "options": [
+            "a) Only the minimum notice required by the Employment Standards Act.",
+            "b) A standard severance package of two weeks per year of service.",
+            "c) Reinstatement to their previous position.",
+            "d) Reasonable notice (or pay in lieu), often estimated around 1 month per year of service, subject to various factors."
+        ],
+        "answer": "d) Reasonable notice (or pay in lieu), often estimated around 1 month per year of service, subject to various factors.",
+        "source": "Employment Law"
+    },
+    {
+        "id": 221,
+        "question": "What are the two key requirements for an invention to be patentable, beyond being eligible subject matter?",
+        "options": [
+            "a) It must be commercially successful and easily manufactured.",
+            "b) It must involve a physical machine and be documented in English.",
+            "c) It must possess Novelty and involve an Inventive Step (be non-obvious).",
+            "d) It must be kept secret and have a registered trademark."
+        ],
+        "answer": "c) It must possess Novelty and involve an Inventive Step (be non-obvious).",
+        "source": "Intellectual Property"
+    },
+    {
+        "id": 222,
+        "question": "What does \"Due Diligence\" typically involve for investors considering an investment in a startup?",
+        "options": [
+            "a) Primarily reviewing the company's marketing materials and website.",
+            "b) Testing the product personally for usability.",
+            "c) Attending a company social event to assess team morale.",
+            "d) Investigating the financial model, founders' history, IP, contracts, and customer feedback."
+        ],
+        "answer": "d) Investigating the financial model, founders' history, IP, contracts, and customer feedback.",
+        "source": "Entrepreneurship"
+    },
+    {
+        "id": 223,
+        "question": "What common law duty do *all* employees generally owe their employer regarding confidential information, even without a specific contractual clause?",
+        "options": [
+            "a) A duty to share it with colleagues to promote collaboration.",
+            "b) A duty to protect it both during and after employment.",
+            "c) A duty to use it freely once employment ends.",
+            "d) No duty unless they are in senior management (fiduciaries)."
+        ],
+        "answer": "b) A duty to protect it both during and after employment.",
+        "source": "Employment Law"
+    },
+    {
+        "id": 224,
+        "question": "Which form of intellectual property protection applies to confidential information (like the Coca-Cola formula) that provides a business with a competitive edge, is not generally known, and is subject to reasonable steps to maintain its secrecy?",
+        "options": [
+            "a) Copyright",
+            "b) Patent",
+            "c) Trademark",
+            "d) Trade Secret"
+        ],
+        "answer": "d) Trade Secret",
+        "source": "Intellectual Property"
+    },
+    {
+        "id": 225,
+        "question": "Which statement best reflects a major drawback of litigation mentioned in the text?",
+        "options": [
+            "a) It guarantees a fair result based solely on evidence.",
+            "b) It is usually the quickest way to resolve complex disputes.",
+            "c) It can be very expensive and time-consuming.",
+            "d) It requires parties to reveal all strategies before trial."
+        ],
+        "answer": "c) It can be very expensive and time-consuming.",
+        "source": "Dispute Resolution"
+    },
+    {
+        "id": 226,
+        "question": "What is the core function of an expert witness, as described in the text?",
+        "options": [
+            "a) To act as an advocate for the party who hired them.",
+            "b) To assist the court or tribunal in understanding technical matters by providing a neutral opinion.",
+            "c) To find flaws in the opposing party's technical arguments.",
+            "d) To decide the outcome of the case based on their expertise."
+        ],
+        "answer": "b) To assist the court or tribunal in understanding technical matters by providing a neutral opinion.",
+        "source": "Dispute Resolution"
+    },
+    {
+        "id": 227,
+        "question": "What is a potential fundamental problem with combined mediation/arbitration (binding mediation) highlighted in Case Study 14.1?",
+        "options": [
+            "a) The arbitrator may be influenced by confidential information revealed during mediation that the other party couldn't challenge.",
+            "b) It is always more expensive than separate mediation and arbitration.",
+            "c) The process requires agreement from all potential third parties.",
+            "d) The final decision is non-binding on the parties."
+        ],
+        "answer": "a) The arbitrator may be influenced by confidential information revealed during mediation that the other party couldn't challenge.",
+        "source": "Dispute Resolution"
+    },
+    {
+        "id": 228,
+        "question": "Compared to litigation, what is often cited as an advantage of arbitration related to confidentiality?",
+        "options": [
+            "a) Arbitrators are bound by stricter confidentiality rules than judges.",
+            "b) All arbitration documents are automatically sealed from the public.",
+            "c) The final decision in arbitration is never published.",
+            "d) Arbitration is a private hearing, unlike public court proceedings."
+        ],
+        "answer": "d) Arbitration is a private hearing, unlike public court proceedings.",
+        "source": "Dispute Resolution"
+    },
+    {
+        "id": 229,
+        "question": "What fundamental principle regarding duty of care was established in the Donoghue v. Stevenson case?",
+        "options": [
+            "a) One must take reasonable care to avoid acts likely to injure one's 'neighbour' (those closely affected).",
+            "b) Liability only exists if there is a direct contractual relationship.",
+            "c) Manufacturers are strictly liable for any defect in their products.",
+            "d) Damages can only be claimed for physical injury, not economic loss."
+        ],
+        "answer": "a) One must take reasonable care to avoid acts likely to injure one's 'neighbour' (those closely affected).",
+        "source": "Torts"
+    },
+    {
+        "id": 230,
+        "question": "How does the standard of care applied by courts differ for professionals who hold themselves out as specialists?",
+        "options": [
+            "a) The standard is lowered because specialists deal with more complex issues.",
+            "b) The standard remains the same as an average professional in the field.",
+            "c) Specialists are expected to achieve perfect results without error.",
+            "d) A higher standard is applied, measured against other specialists in that field."
+        ],
+        "answer": "d) A higher standard is applied, measured against other specialists in that field.",
+        "source": "Torts"
+    },
+    {
+        "id": 231,
+        "question": "What is the purpose of the 'but for' test in determining causation in a negligence claim?",
+        "options": [
+            "a) To determine if the defendant intended to cause the harm.",
+            "b) To assess the total monetary value of the damages suffered.",
+            "c) To establish whether the loss would have occurred without the defendant's negligent act.",
+            "d) To decide if the defendant owed the plaintiff a duty of care."
+        ],
+        "answer": "c) To establish whether the loss would have occurred without the defendant's negligent act.",
+        "source": "Torts"
+    },
+    {
+        "id": 232,
+        "question": "What distinguishes a latent defect from a patent defect?",
+        "options": [
+            "a) A patent defect relates to intellectual property, while a latent defect relates to physical property.",
+            "b) A latent defect is hidden and not easily discoverable upon reasonable inspection, unlike a patent defect.",
+            "c) Only latent defects are covered by limitation periods.",
+            "d) Patent defects are always minor, while latent defects are always major."
+        ],
+        "answer": "b) A latent defect is hidden and not easily discoverable upon reasonable inspection, unlike a patent defect.",
+        "source": "Common Issues"
+    },
+    {
+        "id": 233,
+        "question": "According to the 'Investment' slide, which group often represents the earliest source of funding for a startup?",
+        "options": [
+            "a) Founders, Friends and Family",
+            "b) Venture Capital",
+            "c) Private Equity",
+            "d) Public (IPO)"
+        ],
+        "answer": "a) Founders, Friends and Family",
+        "source": "Entrepreneurship"
+    },
+    {
+        "id": 234,
+        "question": "What approximate success rate for investments is mentioned for a typical Venture Capital Fund?",
+        "options": [
+            "a) About 9 in 10 succeed",
+            "b) About 5 in 10 succeed",
+            "c) About 3 in 10 succeed",
+            "d) Only 1 in 10 succeed"
+        ],
+        "answer": "d) Only 1 in 10 succeed",
+        "source": "Entrepreneurship"
+    },
+    {
+        "id": 235,
+        "question": "What is the primary purpose of the Lean Canvas tool?",
+        "options": [
+            "a) To detail the technical specifications of a product.",
+            "b) To outline the legal structure of the company.",
+            "c) To quickly map out and validate a business model hypothesis.",
+            "d) To manage project timelines and deliverables."
+        ],
+        "answer": "c) To quickly map out and validate a business model hypothesis.",
+        "source": "Entrepreneurship"
+    },
+    {
+        "id": 236,
+        "question": "What key distinction does the Employment Law presentation make between Employees and Independent Contractors/Consultants?",
+        "options": [
+            "a) Only employees are subject to human rights legislation.",
+            "b) Independent contractors are considered employees but with different rules and obligations.",
+            "c) Employees have a 'classic relationship', while contractors are not employees, though they face some similar rules.",
+            "d) Independent contractors cannot be unionized."
+        ],
+        "answer": "b) Independent contractors are considered employees but with different rules and obligations.",
+        "source": "Employment Law"
+    },
+    {
+        "id": 237,
+        "question": "What is the 'Duty to Mitigate' in the context of termination and reasonable notice?",
+        "options": [
+            "a) The employee's obligation to try to find comparable new employment to reduce their damages.",
+            "b) The employer's obligation to minimize the emotional distress caused by termination.",
+            "c) The employee's right to refuse any job offer during the notice period.",
+            "d) The employer's duty to provide outplacement services."
+        ],
+        "answer": "a) The employee's obligation to try to find comparable new employment to reduce their damages.",
+        "source": "Employment Law"
+    },
+    {
+        "id": 238,
+        "question": "What is the primary function of a Trademark?",
+        "options": [
+            "a) To protect the technical functionality of an invention.",
+            "b) To grant rights to copy a creative work.",
+            "c) To act as a product or service identifier, distinguishing it from others in the marketplace.",
+            "d) To keep valuable business information confidential."
+        ],
+        "answer": "c) To act as a product or service identifier, distinguishing it from others in the marketplace.",
+        "source": "Intellectual Property"
+    },
+    {
+        "question": "According to the principles of Fairness and Equity presented, what specific responsibilities do engineers have regarding workplace diversity?",
+        "options": [
+            "a) To prioritize hiring friends and family to ensure loyalty.",
+            "b) To recognize the challenges faced by women and minority groups and ensure effective, fair policies for hiring and promotion.",
+            "c) To focus solely on technical skills, ignoring interpersonal dynamics.",
+            "d) To ensure communication is limited to formal channels only."
+        ],
+        "answer": "b) To recognize the challenges faced by women and minority groups and ensure effective, fair policies for hiring and promotion.",
+        "id": 240
+    },
+    {
+        "question": "The Canadian Charter of Rights and Freedoms guarantees equal protection and benefit of the law without discrimination based on several grounds. Which of the following is listed as a prohibited ground?",
+        "options": [
+            "a) Political affiliation",
+            "b) Education level",
+            "c) National or ethnic origin",
+            "d) Profession or occupation"
+        ],
+        "answer": "c) National or ethnic origin",
+        "id": 242
+    },
+    {
+        "question": "In Canada, what is the legal status of discrimination based on grounds like race, sex, or religion?",
+        "options": [
+            "a) It is discouraged but generally legal in private workplaces.",
+            "b) It is considered unethical but not subject to legal penalties.",
+            "c) It is illegal and punishable under the Criminal Code and human rights legislation.",
+            "d) It is only illegal if it occurs in government institutions."
+        ],
+        "answer": "c) It is illegal and punishable under the Criminal Code and human rights legislation.",
+        "id": 244
+    },
+    {
+        "question": "How does the Canadian Charter of Rights and Freedoms relate to other legislation?",
+        "options": [
+            "a) It is superseded by provincial human rights codes.",
+            "b) It applies only to federal matters.",
+            "c) It acts as primary legislation that supersedes all other acts.",
+            "d) It can be overridden by professional association bylaws."
+        ],
+        "answer": "c) It acts as primary legislation that supersedes all other acts.",
+        "id": 246
+    },
+    {
+        "question": "What are common manifestations of gender-role stereotypes mentioned as contributing factors to women being underrepresented in engineering?",
+        "options": [
+            "a) Objective performance metrics and technical qualifications.",
+            "b) Shared leadership qualities and nurturance.",
+            "c) Prevailing attitudes, values, and behaviours regarding 'male-dominated' vs 'female-dominated' fields.",
+            "d) Equal pay scales and promotion opportunities."
+        ],
+        "answer": "c) Prevailing attitudes, values, and behaviours regarding 'male-dominated' vs 'female-dominated' fields.",
+        "id": 248
+    },
+    {
+        "question": "What does the term 'glass ceiling' typically refer to in the context of workplace discrimination?",
+        "options": [
+            "a) A mandatory requirement for safety glass in office buildings.",
+            "b) An invisible barrier preventing women and minorities from advancing to higher positions, often reflected in salary/payscale disparities.",
+            "c) A transparent management style.",
+            "d) The maximum educational qualification required for a role."
+        ],
+        "answer": "b) An invisible barrier preventing women and minorities from advancing to higher positions, often reflected in salary/payscale disparities.",
+        "id": 250
+    },
+    {
+        "question": "If an employee observes discrimination and makes a complaint, and the employer subsequently denies them a promotion or terminates them because of the complaint, what is this action called?",
+        "options": [
+            "a) Due diligence",
+            "b) Progressive discipline",
+            "c) Retaliation",
+            "d) Constructive feedback"
+        ],
+        "answer": "c) Retaliation",
+        "id": 252
+    },
+    {
+        "question": "What are the three typical characteristics of sexual harassment presented?",
+        "options": [
+            "a) Consensual, performance-based, and publicly announced.",
+            "b) Unwanted/unwelcome, behaviour is gender-based, and involves a power imbalance.",
+            "c) Humorous, private, and related to decision-making.",
+            "d) Affecting promotion, affecting decision-making, and affecting relationships."
+        ],
+        "answer": "b) Unwanted/unwelcome, behaviour is gender-based, and involves a power imbalance.",
+        "id": 254
+    },
+    {
+        "question": "Which of the following is provided as an example of sexual harassment?",
+        "options": [
+            "a) Providing constructive criticism on work performance.",
+            "b) Offering a promotion based on merit.",
+            "c) Making unwelcome comments about a person's body or perceived sexual attractiveness.",
+            "d) Discussing project deadlines."
+        ],
+        "answer": "c) Making unwelcome comments about a person's body or perceived sexual attractiveness.",
+        "id": 256
+    },
+    {
+        "question": "Which scenario is presented as an example of sex discrimination?",
+        "options": [
+            "a) Offering parental leave equally to men and women.",
+            "b) Paying men more money than women for performing the same work.",
+            "c) Providing reasonable accommodation for religious practices.",
+            "d) Implementing unbiased interview techniques."
+        ],
+        "answer": "b) Paying men more money than women for performing the same work.",
+        "id": 258
+    },
+    {
+        "question": "Which of the following is given as an example of religious discrimination?",
+        "options": [
+            "a) Allowing employees time off for various statutory holidays.",
+            "b) Posting comics that respectfully depict different faiths.",
+            "c) Refusing to permit an individual to take time off to observe a required religious holiday.",
+            "d) Offering non-denominational facilities for quiet reflection."
+        ],
+        "answer": "c) Refusing to permit an individual to take time off to observe a required religious holiday.",
+        "id": 260
+    },
+    {
+        "question": "Which of the following is presented as an example of age discrimination?",
+        "options": [
+            "a) Offering retirement planning seminars to employees nearing retirement age.",
+            "b) Restricting participation in a work-related social event to persons over 35 years of age.",
+            "c) Basing promotion decisions on performance and qualifications regardless of age.",
+            "d) Mentoring younger employees."
+        ],
+        "answer": "b) Restricting participation in a work-related social event to persons over 35 years of age.",
+        "id": 262
+    },
+    {
+        "question": "What is an example of disability discrimination provided in the text?",
+        "options": [
+            "a) Providing necessary accommodations requested by an employee with a disability.",
+            "b) Asking an employee about their general well-being.",
+            "c) Making negative assumptions about a person's abilities due to a physical disability and denying them opportunities as a result.",
+            "d) Ensuring buildings meet accessibility code requirements."
+        ],
+        "answer": "c) Making negative assumptions about a person's abilities due to a physical disability and denying them opportunities as a result.",
+        "id": 264
+    },
+    {
+        "question": "What is meant by 'indirect discrimination'?",
+        "options": [
+            "a) Discrimination committed unintentionally.",
+            "b) Discrimination that occurs outside of the workplace.",
+            "c) Enforcing a rule or policy that, while applied equally, has a disproportionately negative effect on a particular group protected under human rights law.",
+            "d) Discrimination carried out through a third party."
+        ],
+        "answer": "c) Enforcing a rule or policy that, while applied equally, has a disproportionately negative effect on a particular group protected under human rights law.",
+        "id": 266
+    },
+    {
+        "question": "According to the principles of Fair Practice and Employment Equity, what is the recommended approach regarding hiring?",
+        "options": [
+            "a) Prioritizing candidates referred by current employees.",
+            "b) Filling quotas to achieve diversity targets quickly.",
+            "c) Using wide advertising, encouraging all qualified candidates, and employing unbiased interview techniques.",
+            "d) Focusing hiring efforts solely within the local community."
+        ],
+        "answer": "c) Using wide advertising, encouraging all qualified candidates, and employing unbiased interview techniques.",
+        "id": 268
+    },
+    {
+        "question": "If a prospective employer asks interview questions about your race, religion, age, or marital status, what is the legal standing of these questions in Canada?",
+        "options": [
+            "a) They are standard questions used to assess cultural fit.",
+            "b) They are legal, and you are required to answer honestly.",
+            "c) They are generally illegal, and you are under no obligation to answer them.",
+            "d) They are legal only if asked by a government employer."
+        ],
+        "answer": "c) They are generally illegal, and you are under no obligation to answer them.",
+        "id": 270
+    },
+    {
+        "question": "What approach should be taken regarding the licensing of qualified professionals from other countries?",
+        "options": [
+            "a) It should be discouraged to protect local jobs.",
+            "b) It should be subject to significantly higher fees.",
+            "c) It must be encouraged to promote fairness and access.",
+            "d) It should only be considered if there is a severe local shortage."
+        ],
+        "answer": "c) It must be encouraged to promote fairness and access.",
+        "id": 272
+    },
+    {
+        "question": "Which of the following is NOT listed as a current issue related to computers and software?",
+        "options": [
+            "a) Copyright infringement",
+            "b) Hardware obsolescence",
+            "c) Hacking",
+            "d) Identity theft"
+        ],
+        "answer": "b) Hardware obsolescence",
+        "id": 274
+    },
+    {
+        "question": "What is the typical purpose of a disclaimer included with commercial software regarding liability?",
+        "options": [
+            "a) To guarantee the software is free from errors.",
+            "b) To state that the developer is not responsible for issues arising from its use (e.g., providing it 'AS IS').",
+            "c) To offer users extended warranty protection.",
+            "d) To detail the steps for reporting bugs."
+        ],
+        "answer": "b) To state that the developer is not responsible for issues arising from its use (e.g., providing it 'AS IS').",
+        "id": 276
+    },
+    {
+        "question": "Which of the following is listed as a necessary step in the software testing process?",
+        "options": [
+            "a) Marketing",
+            "b) Sales",
+            "c) Validation",
+            "d) Distribution"
+        ],
+        "answer": "c) Validation",
+        "id": 278
+    },
+    {
+        "question": "What testing method involves comparing software output to a simple analytical calculation?",
+        "options": [
+            "a) Dummy Testing",
+            "b) Analytical Check",
+            "c) Independent Theoretical Check",
+            "d) Duplication"
+        ],
+        "answer": "b) Analytical Check",
+        "id": 280
+    },
+    {
+        "question": "What is the significance of the Hartford Arena roof collapse example?",
+        "options": [
+            "a) It demonstrated the success of modern construction techniques.",
+            "b) It highlighted the risks of using inadequate computer software in the engineering design stage without proper verification.",
+            "c) It led to new regulations on arena seating capacity.",
+            "d) It showcased the durability of steel structures under stress."
+        ],
+        "answer": "b) It highlighted the risks of using inadequate computer software in the engineering design stage without proper verification.",
+        "id": 282
+    },
+    {
+        "question": "According to the presentation, what was the estimated global cost of lost revenue due to software piracy in 2024?",
+        "options": [
+            "a) $4.6 Million",
+            "b) $460 Million",
+            "c) $4.6 Billion",
+            "d) $46 Billion"
+        ],
+        "answer": "d) $46 Billion",
+        "id": 284
+    },
+    {
+        "question": "Which of the following is identified as a negative consequence or issue associated with using pirated software in a professional practice?",
+        "options": [
+            "a) Enhanced software performance",
+            "b) Access to free technical support",
+            "c) Violation of the Copyright Act and potential unprofessional conduct",
+            "d) Automatic software updates"
+        ],
+        "answer": "c) Violation of the Copyright Act and potential unprofessional conduct",
+        "id": 286
+    },
+    {
+        "question": "Which of the following is NOT listed as a major global environmental concern?",
+        "options": [
+            "a) Rising energy consumption outpacing natural capacity",
+            "b) Increased satellite deployment",
+            "c) Climate change impacts like biodiversity loss",
+            "d) Imbalance of consumption between rich and poor countries"
+        ],
+        "answer": "b) Increased satellite deployment",
+        "id": 288
+    },
+    {
+        "question": "What does the concept of an 'ecological footprint' generally measure?",
+        "options": [
+            "a) The physical area covered by a nation's forests.",
+            "b) The amount of biologically productive land and water area required to support a population's consumption and absorb its waste.",
+            "c) The number of endangered species within a region.",
+            "d) The total volume of water consumed annually."
+        ],
+        "answer": "b) The amount of biologically productive land and water area required to support a population's consumption and absorb its waste.",
+        "id": 290
+    },
+    {
+        "question": "What is the core focus of environmental ethics?",
+        "options": [
+            "a) The economic valuation of natural resources.",
+            "b) The study of the moral relationship between human beings and the environment, including its non-human components.",
+            "c) The development of new pollution control technologies.",
+            "d) The political lobbying efforts of environmental groups."
+        ],
+        "answer": "b) The study of the moral relationship between human beings and the environment, including its non-human components.",
+        "id": 292
+    },
+    {
+        "question": "What is the difference between instrumental value and intrinsic value?",
+        "options": [
+            "a) Instrumental value relates to tools, while intrinsic value relates to natural objects.",
+            "b) Instrumental value is subjective, while intrinsic value is objective.",
+            "c) Instrumental value is the value something has as a means to an end, while intrinsic value is the value something has in itself.",
+            "d) Instrumental value applies only to man-made items, while intrinsic value applies only to living things."
+        ],
+        "answer": "c) Instrumental value is the value something has as a means to an end, while intrinsic value is the value something has in itself.",
+        "id": 294
+    },
+    {
+        "question": "According to the EGBC Code of Ethics principle cited, what is the engineer's fundamental duty regarding the environment?",
+        "options": [
+            "a) To prioritize economic development above environmental concerns.",
+            "b) To safeguard human life and welfare AND the environment.",
+            "c) To follow the client's instructions regarding environmental impact.",
+            "d) To minimize environmental considerations to reduce project costs."
+        ],
+        "answer": "b) To safeguard human life and welfare AND the environment.",
+        "id": 296
+    },
+    {
+        "question": "Which act is mentioned as the main federal legislature for the regulation of the environment in Canada?",
+        "options": [
+            "a) Fisheries Act",
+            "b) Canadian Environmental Assessment Act (CEAA)",
+            "c) Canadian Environmental Protection Act (CEPA)",
+            "d) Transportation of Dangerous Goods Act"
+        ],
+        "answer": "c) Canadian Environmental Protection Act (CEPA)",
+        "id": 298
+    },
+    {
+        "question": "Which professional guideline emphasizes considering the entire lifespan of a project, including costs, benefits, environmental stewardship, and sustainability?",
+        "options": [
+            "a) Developing environmental awareness",
+            "b) Using specialist expertise",
+            "c) Full life-cycle assessment",
+            "d) Promoting transparency"
+        ],
+        "answer": "c) Full life-cycle assessment",
+        "id": 300
+    },
+    {
+        "question": "What economic concept, attributed to Adam Smith, suggests that individual self-interest in a free market can lead to unintended broader social benefits?",
+        "options": [
+            "a) Tragedy of the Commons",
+            "b) Sustainable Development",
+            "c) The Invisible Hand",
+            "d) Corporate Social Responsibility"
+        ],
+        "answer": "c) The Invisible Hand",
+        "id": 302
+    },
+    {
+        "question": "What concept, popularized by Garrett Hardin, describes the depletion of shared, unregulated resources due to individuals acting in their own short-term self-interest?",
+        "options": [
+            "a) The Invisible Hand",
+            "b) Life-Cycle Assessment",
+            "c) The Tragedy of the Commons",
+            "d) Environmental Ethics"
+        ],
+        "answer": "c) The Tragedy of the Commons",
+        "id": 304
+    },
+    {
+        "question": "What is the definition of Sustainable Development provided in the slides?",
+        "options": [
+            "a) Maximizing resource extraction for short-term economic gain.",
+            "b) Economic growth that does not deplete irreplaceable resources, destroy ecosystems, and helps reduce gross social inequalities.",
+            "c) Shifting all economic activity to the service sector.",
+            "d) Achieving zero population growth globally."
+        ],
+        "answer": "b) Economic growth that does not deplete irreplaceable resources, destroy ecosystems, and helps reduce gross social inequalities.",
+        "id": 306
+    },
+    {
+        "question": "What does 'Corporate Social Responsibility' (CSR) primarily entail?",
+        "options": [
+            "a) Maximizing shareholder profits above all other considerations.",
+            "b) An organization's demonstration of social and ethical performance and accountability to its stakeholders.",
+            "c) Compliance with only the minimum legal requirements.",
+            "d) Charitable donations made by the company executives personally."
+        ],
+        "answer": "b) An organization's demonstration of social and ethical performance and accountability to its stakeholders.",
+        "id": 308
+    },
+    {
+        "question": "Which management system standard focuses specifically on Environmental Management?",
+        "options": [
+            "a) ISO 9001",
+            "b) OHSAS 18001",
+            "c) SA8000",
+            "d) ISO 14001"
+        ],
+        "answer": "d) ISO 14001",
+        "id": 310
+    },
+    {
+        "question": "Which management system standard focuses on verifying codes of conduct and factory certification related to labor practices (like prohibition of child/forced labor)?",
+        "options": [
+            "a) ISO 9001 (Quality Management)",
+            "b) ISO 14001 (Environmental Management)",
+            "c) SA8000 (Social Accountability)",
+            "d) OHSAS 18001 (Occupational Health & Safety)"
+        ],
+        "answer": "c) SA8000 (Social Accountability)",
+        "id": 312
+    },
+    {
+        "question": "Which ethical theory focuses primarily on the consequences of an action, aiming for the 'greatest benefit for the greatest number'?",
+        "options": [
+            "a) Deontology (Duty/Rights Ethics)",
+            "b) Virtue Ethics",
+            "c) Utilitarianism (Consequentialism)",
+            "d) Procedural Justice"
+        ],
+        "answer": "c) Utilitarianism (Consequentialism)",
+        "id": 314
+    },
+    {
+        "question": "Which ethical theory emphasizes acting according to universal principles or duties, regardless of the outcome?",
+        "options": [
+            "a) Utilitarianism",
+            "b) Deontology",
+            "c) Virtue Ethics",
+            "d) Corrective Justice"
+        ],
+        "answer": "b) Deontology",
+        "id": 316
+    },
+    {
+        "question": "What is the 'Veil of Ignorance' test proposed by John Rawls intended to ensure?",
+        "options": [
+            "a) That decisions maximize overall utility.",
+            "b) That actions align with the actor's character.",
+            "c) That principles of justice are chosen fairly, without bias based on one's own position or characteristics.",
+            "d) That all potential consequences are identified."
+        ],
+        "answer": "c) That principles of justice are chosen fairly, without bias based on one's own position or characteristics.",
+        "id": 318
+    },
+    {
+        "question": "Which ethical theory focuses on the character and integrity of the person acting, emphasizing motivations and community norms?",
+        "options": [
+            "a) Utilitarianism",
+            "b) Deontology",
+            "c) Virtue Ethics",
+            "d) Distributive Justice"
+        ],
+        "answer": "c) Virtue Ethics",
+        "id": 320
+    },
+    {
+        "question": "What is the 'Disclosure Rule' test used in Virtue Ethics?",
+        "options": [
+            "a) Does the action provide the greatest good for the greatest number?",
+            "b) Does the action respect the fundamental rights of all involved?",
+            "c) How would you feel if your action was exposed in the media; could you maintain your integrity?",
+            "d) Does the action comply with all relevant laws and regulations?"
+        ],
+        "answer": "c) How would you feel if your action was exposed in the media; could you maintain your integrity?",
+        "id": 322
+    },
+    {
+        "question": "Which step in the Eight Steps to Ethical Decision Making involves identifying stakeholders like owners, employees, customers, and the community?",
+        "options": [
+            "a) Step 1 - Gather the Facts",
+            "b) Step 2 - Define the Ethical Issues",
+            "c) Step 3 - Identify the Affected Parties",
+            "d) Step 4 - Identify the Consequences"
+        ],
+        "answer": "c) Step 3 - Identify the Affected Parties",
+        "id": 324
+    },
+    {
+        "question": "Which principle of justice ensures that decision-making processes treat all parties with dignity and respect, including the right to be heard and judged impartially?",
+        "options": [
+            "a) Corrective Justice",
+            "b) Distributive Justice",
+            "c) Political Justice",
+            "d) Procedural Justice (Due Process)"
+        ],
+        "answer": "d) Procedural Justice (Due Process)",
+        "id": 326
+    },
+    {
+        "question": "Which principle of justice deals with correcting wrongdoings and providing remedies to injured parties, often through tort law or professional discipline?",
+        "options": [
+            "a) Procedural Justice",
+            "b) Corrective Justice",
+            "c) Distributive Justice",
+            "d) Political Justice"
+        ],
+        "answer": "b) Corrective Justice",
+        "id": 328
+    },
+    {
+        "question": "To whom does the professional Code of Ethics emphasize duties?",
+        "options": [
+            "a) Only to clients and employers.",
+            "b) Primarily to the professional association.",
+            "c) Only to society and the environment.",
+            "d) To society, employers, clients, colleagues, subordinates, the profession, and oneself."
+        ],
+        "answer": "d) To society, employers, clients, colleagues, subordinates, the profession, and oneself.",
+        "id": 330
+    },
+    {
+        "question": "What is the first and paramount principle listed in the Engineering Code of Ethics?",
+        "options": [
+            "a) To act as faithful agents of clients or employers.",
+            "b) To uphold the principle of adequate compensation.",
+            "c) To hold paramount the safety, health, and welfare of the public and protect the environment.",
+            "d) To maintain competence through lifelong learning."
+        ],
+        "answer": "c) To hold paramount the safety, health, and welfare of the public and protect the environment.",
+        "id": 332
+    },
+    {
+        "question": "According to Principle 4 (Faithful Agent), what should a professional do if a conflict of interest arises?",
+        "options": [
+            "a) Ignore it unless asked by the client.",
+            "b) Resign from the assignment immediately.",
+            "c) Fully disclose the circumstances without delay to the employer or client.",
+            "d) Seek advice from a colleague before taking action."
+        ],
+        "answer": "c) Fully disclose the circumstances without delay to the employer or client.",
+        "id": 334
+    },
+    {
+        "question": "What does Principle 7 (Fairness, Courtesy, Good Faith) state regarding evaluating the work of a fellow engineer?",
+        "options": [
+            "a) It should only be done if requested by the client.",
+            "b) It should not be done without the other engineer's knowledge.",
+            "c) Negative evaluations should always be communicated publicly.",
+            "d) Evaluations should focus primarily on cost-effectiveness."
+        ],
+        "answer": "b) It should not be done without the other engineer's knowledge.",
+        "id": 336
+    }
+]

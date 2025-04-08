@@ -1,0 +1,26 @@
+/* style.css */
+
+/* Add custom styles here ONLY if absolutely necessary and not achievable with Tailwind */
+body {
+    font-family: sans-serif;
+    /* Basic font consistency */
+}
+
+/* You might want a bit more explicit styling for the tooltip if the default browser 'title' is not enough */
+/* For example: */
+/* #correct-list li[title]:hover::after { */
+/*    content: attr(title); */
+/*    position: absolute; */
+/*    background-color: #333; */
+/*    color: white; */
+/*    padding: 5px 10px; */
+/*    border-radius: 4px; */
+/*    font-size: 0.9em; */
+/*    white-space: nowrap; */
+/*    z-index: 10; */
+/*    /* Add positioning adjustments as needed */
+/*    left: 105%; /* Example positioning */
+/*    top: 0; */
+/* } */
+
+/* We are using the default 'title' attribute hover for simplicity for now. */
