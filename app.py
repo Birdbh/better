@@ -2,11 +2,20 @@ from flask import Flask, request, jsonify, render_template, g
 from flask_cors import CORS # If running frontend/backend separately
 import sqlite3
 import json
+import subprocess
 import os
+
+#ngrok config add-authtoken 2vQLJes4p2CjLz9rlaRCzvFcOta_6cfFiWkBD4v2saTZ1ag8F
 
 app = Flask(__name__, template_folder='templates', static_folder='static')
 # CORS(app) # Enable CORS if needed (e.g., frontend on different port)
 app.config['DATABASE'] = 'quiz_app.db'
+
+# --- Configuration for Git Pull ---
+# Assumes your app.py is at the root of your git repository
+GIT_REPO_PATH = os.path.dirname(os.path.abspath(__file__))
+# The branch you want to pull changes from (usually 'main' or 'master')
+GIT_BRANCH = 'main'
 
 # ---- Database Helper ----
 def get_db():
@@ -42,6 +51,39 @@ def index():
     # Basic check if user cookie/header exists could be added here,
     # but frontend handles redirect based on localStorage for simplicity.
     return render_template('index.html')
+
+# --- Simple Webhook for Git Pull ---
+@app.route('/webhook', methods=['GET', 'POST']) # Accept GET for easy testing
+def webhook_update():
+    print("Webhook received! Attempting git pull...")
+    try:
+        # Run 'git pull' in the repository directory
+        result = subprocess.run(
+            ['git', 'pull', 'origin', GIT_BRANCH],
+            cwd=GIT_REPO_PATH,      # Run command in this directory
+            capture_output=True,    # Capture stdout and stderr
+            text=True,              # Decode output as text
+            check=True              # Raise exception if git pull fails (non-zero exit code)
+        )
+        print(f"Git pull successful for branch '{GIT_BRANCH}'!")
+        print("Output:\n", result.stdout)
+        # Flask's debug reloader should handle the restart if .py files changed
+        return f"Update successful: Pulled branch '{GIT_BRANCH}'.\n{result.stdout}", 200
+    except subprocess.CalledProcessError as e:
+        # Git command failed
+        error_message = f"ERROR: Git pull failed (return code {e.returncode}).\nStderr:\n{e.stderr}\nStdout:\n{e.stdout}"
+        print(error_message)
+        return error_message, 500 # Internal Server Error
+    except FileNotFoundError:
+        # Git command not found
+        error_message = "ERROR: 'git' command not found. Make sure git is installed and in the system's PATH."
+        print(error_message)
+        return error_message, 500
+    except Exception as e:
+        # Catch other potential exceptions
+        error_message = f"An unexpected error occurred during git pull: {e}"
+        print(error_message)
+        return error_message, 500
 
 # API: Handle Login/Registration
 @app.route('/api/login', methods=['POST'])
@@ -169,6 +211,8 @@ if __name__ == '__main__':
     if not os.path.exists(app.config['DATABASE']):
         print("Database file not found. Please run init_db.py first.")
     else:
-        # Set debug=True for development (auto-reloads)
+        # Set debug=True for development (auto-reloads when Python files change)
         # Use host='0.0.0.0' to make accessible on your network
-        app.run(debug=True, host='0.0.0.0', port=5000)
+        print(f"Starting Flask app. Git repository path: {GIT_REPO_PATH}")
+        print(f"Webhook endpoint available at /webhook (will pull from origin/{GIT_BRANCH})")
+        app.run(debug=True, host='0.0.0.0', port=5000) # debug=True is key for auto-reloading
